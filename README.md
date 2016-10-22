@@ -1,1 +1,0 @@
-# iqbalali.github.io
