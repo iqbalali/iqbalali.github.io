@@ -1,0 +1,22 @@
+{
+  "name": "iqbal-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalali/iqbalali.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbalali/iqbalali.github.io/issues"
+  },
+  "homepage": "https://github.com/iqbalali/iqbalali.github.io#readme",
+  "devDependencies": {
+    "node-static": "^0.7.9"
+  }
+}
