@@ -17,7 +17,7 @@
         <link href="/theme/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- Custom CSS -->
-        <link href="/theme/css/clean-blog.min.css" rel="stylesheet">
+        <link href="/theme/css/clean-blog.css" rel="stylesheet">
 
         <!-- Code highlight color scheme -->
             <link href="/theme/css/code_blocks/monokai.css" rel="stylesheet">
@@ -37,7 +37,7 @@
 
 
 
-        <meta name="tags" contents="pen" />
+        <meta name="tags" contents="accessibility" />
 
 
 			<meta property="og:locale" content="en">
@@ -79,23 +79,45 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Page Header -->
-        <header class="intro-header" style="background-image: url('/theme/images/post-bg.jpg')">
+        <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header header-background-color">
+        <!-- header class="intro-header" style="background-image: url('/theme/images/home-bg.jpg')" -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="post-heading">
-                        <h1>My super title 2</h1>
-                        <span class="meta">Posted by
-                                <a href="/author/iqbal-ali">Iqbal Ali</a>
-                             on Fri 03 December 2010
-                        </span>
+                    <div class="page-heading">
                         
+                        <div class="row profile">
+                            <div class="col-sm-2">
+                                <a href="/"><img src="/theme/images/iqbal-profile.jpg" alt=""></a>
+
+                            </div>
+                            <div class="col-sm-8">
+                                <p>Hi, I'm <strong>Iqbal</strong>. I'm an optimisation specialist working at Trainline. I have over fourteen years of experience in the industry.</p>
+                                <p style="margin-bottom:3px">I'm always learning, and I invite you to learn along with me! Topics:</p>
+                                <p class="subheading">
+                                <a href="/tag/accessibility">accessibility</a>
+                                <a href="/tag/optimisation">optimisation</a>
+                                <a href="/tag/web-development">web-development</a>
+                                </p>
+                            </div>
+                        </div>
                     </div>
+                    
+
+
+    <div class="page-heading-title">
+    <h1>My super title 2</h1>
+    </div>
+                        
+                   
                 </div>
+
             </div>
         </div>
     </header>
+    
 
     <!-- Main Content -->
     <div class="container">
@@ -121,7 +143,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <ul class="list-inline text-center">
                         <li>
-                            <a href="http://twitter.com/myprofile">
+                            <a href="http://twitter.com/iqbalali">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -129,10 +151,10 @@
                             </a>
                         </li>
                         <li>
-                            <a href="http://facebook.com/myprofile">
+                            <a href="https://www.linkedin.com/in/iqbalhussainali">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                                 </span>
                             </a>
                         </li>
@@ -160,6 +182,16 @@
     <!-- Custom Theme JavaScript -->
     <!-- <script src="/theme/js/clean-blog.min.js"></script> -->
 
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'XXXXX']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
 <script type="text/javascript">
     var disqus_shortname = 'blog-notmyidea';
     (function () {
