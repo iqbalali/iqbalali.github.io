@@ -1,0 +1,40 @@
+footer{
+  	background: #eee;
+  	padding: 50px 0;
+	.about-section{
+		margin-bottom:20px;
+		margin-top:20px;
+	}
+
+	.social{
+		display:none;
+		margin:0 auto;
+		font-size: 4.6rem;
+		ul{
+			margin:0;
+			li{
+				margin:0;
+				.fa-stack{
+				    width: 1em;
+    				height: 1em;
+				}
+				.fa{
+					@include transition(.9s all ease);
+				}
+				.fa:hover{
+			        color: #2a4c7c;
+			        @include transition(.9s all ease);
+			    }
+			}
+		}
+	}
+}
+
+.blog footer {
+	.about-profile{
+		display:none;	
+	}
+	.social{
+		display:block;
+	}
+}

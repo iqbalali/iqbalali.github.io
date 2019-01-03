@@ -1,0 +1,169 @@
+
+.book-section{
+
+  //margin-top: $margin-base-main-vertical&;
+  .series-info{
+    //@include make-xs-column(9);
+    margin:0 auto;
+    text-align:center;
+    clear:both;
+  }
+  .rating{
+    .inline-block{
+      width:16px;
+    }
+  }
+  .book-item{
+    align-self: flex-start;
+    position:relative;
+    line-height:1.4em;
+    //width: 22%;
+    text-align:center;
+    position:relative;
+    .book-title{
+      display:block;
+      position: absolute;
+      z-index: 1000;
+      background-color: rgba(0,0,0,0.6);
+      width: 100%;
+      bottom: 0;
+      height: 4em;
+      text-align: left;
+    }
+    .cover-image{
+      display:box;
+      position:relative;
+      background: #000;
+      //.page-curl{display:none;position:absolute;bottom:0;right:0;width:30px;height:30px}
+    }
+    .book-text{
+      position:absolute;
+      align-self: flex-start;
+      top: 0;
+      flex:1;
+      opacity:0;
+      height:96%;
+      //@include transition(all .5s ease-in-out);
+
+      .btn-default{
+        display: inline-block;
+        margin: 10px 4px;
+        position: absolute;
+        bottom: 0;
+        height: auto;
+        left: 4px;
+        width: 95%;
+      }
+    }
+    &:hover,
+    &:focus{
+      .book-text{
+        opacity:1;
+      }
+      .book-title{
+        display:none;
+      }
+      img{
+        opacity: 0.3;
+      }
+    }
+    img{
+      //@include transition(all .2s ease-in-out);
+      background: #000;
+      opacity:1;
+    }
+    a{
+      //@include clearfix();
+      height:100%;
+      display:block;
+      text-decoration:none;
+
+    }
+    h3{
+      color: #fff;
+    }
+    p{
+      color: #fff;
+    }
+    .btn-default{
+      display:inline-block;
+    }
+
+    em{
+      font-weight:normal;
+      font-style:italic;
+    }
+    ul{
+      @extend .list-unstyled;
+      li{
+        display:inline;
+        p{display:inline;}
+      }
+      li:after{
+        content:","
+      }
+      li:last-child{
+        &:after{
+          content:"."
+        }
+      }
+    }
+
+  }
+  .books{
+    //@include flexbox;
+    clear:both;
+    //margin:$margin-base-main-vertical*2 0;
+  }
+  .review{
+    font-style:italic;
+    //margin: 0 $padding-base-horizontal*8;
+  }
+  .btn-default{
+    display:block;
+    text-align:center;
+    margin-bottom:5px;
+  }
+}
+
+section.book-aside{
+  h2{
+    font-size:14px;
+    font-weight:bold;
+    margin:0;
+  }
+  h3{
+  margin-top:0;
+  text-align:center;
+  }
+  .book{
+    width:48%;
+    display:inline-block
+  }
+}
+
+//Review Section
+section.reviews-section{
+  .review-carousel{
+    min-height: 34rem;
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
+  }
+  .review-quote{
+    display:block;
+    font-weight:normal;
+    font-size:1.7rem;
+    line-height:1.2em;
+    text-align:center;
+    padding:0 10px;
+  }
+  .reviewer{
+    font-size:1.3rem;
+    line-height:1.3em;
+    text-align:center;
+    font-family: Georgia, serif;
+    font-style: italic;
+
+  }
+}

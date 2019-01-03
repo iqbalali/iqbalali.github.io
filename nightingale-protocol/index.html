@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+            <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="">
+
+
+        <title>Nightingale Protocol</title>
+
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-44825157-1', 'auto');
+      ga('require', 'GTM-5B8TM25');
+      ga('send', 'pageview');
+    </script>
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-5B8TM25':true});</script>
+
+            <link href="http://www.mildfrenzy.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Mild Frenzy Comics Full RSS Feed" />
+
+        
+        <!-- link rel="stylesheet" href="/theme/css/site.css" -->
+        <link rel="stylesheet" href="/theme/css/site_2.css">
+       
+
+
+
+
+
+
+        <!-- Custom Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Signika" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+        <script>
+        function getSearchParameters() {
+              var prmstr = window.location.search.substr(1);
+              return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
+        }
+        function transformToAssocArray( prmstr ) {
+            var params = {};
+            var prmarr = prmstr.split("&");
+            for ( var i = 0; i < prmarr.length; i++) {
+                var tmparr = prmarr[i].split("=");
+                params[tmparr[0]] = tmparr[1];
+            }
+            return params;
+        }
+        var params = getSearchParameters();
+        </script>
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
+
+
+        <meta name="tags" contents="comics" />
+
+
+		<meta property="og:locale" content="en">
+		<meta property="og:site_name" content="Mild Frenzy Comics">
+
+
+</head>
+
+<body class="comic-page" style="background-color:#1f3a50;">
+<header class="bg-black-90 w-100 ph3 pv1 pv1-ns ph4-m ph5-l">
+<nav class="ttu tracked mw8 center">
+    <div class="row">
+        <div class="w-third pv2">
+            <a href="/">
+                <span class="logo-inline bg-white fl w5" style="">&nbsp;</span>
+            </a>
+        </div>
+        <div class="w-third tc">
+                    <div class="share-links-follow">
+    <ul class="list-unstyled list-inline">
+       <li>
+            <a href="http://twitter.com/mildfrenzy" class="white">
+                <span class="fa-stack fa-lg">
+                   <i class="fa fa-twitter-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="http://facebook.com/mildfrenzy" class="white">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-facebook-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <!--
+        <li>
+            <a href="">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-linkedin-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+      -->
+        <li>
+            <a href="http://mildfrenzy.tumblr.com" class="white">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-tumblr-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <!--
+        <li>
+            <a href="">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-google-plus-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+      -->
+    </ul>
+</div>
+        </div>
+        <div class="w-third tr pv2">
+            <a id="shopping_cart_btn" href="/checkout" class="white "><i class="fa fa-shopping-cart"></i> <span id="basket_quant"></span> items</a>
+            <!--a id="shopping_cart_btn" class="link dim white dib" href="#" title="Checkout">Checkout</a -->
+            <span class="arrow-icon fr pl2" style="width:19px;">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 513 258" style="" xml:space="preserve">
+            <path fill="#fff" d="M1,127.5c2.4-7.3,7.7-9.7,14.9-9.7c87.8,0.1,175.6,0,263.5,0c62.7,0,125.3,0,188,0c1.4,0,2.9-0.2,4.3-0.3
+                c0.3-0.4,0.7-0.9,1-1.3c-1.9-1.5-3.9-2.9-5.6-4.6c-29.7-29.7-59.4-59.4-89-89.1c-5.9-5.9-6.7-12-2.4-17.2c3.9-4.8,10.7-5.7,15.6-1.9
+                c1.8,1.4,3.5,3.1,5.1,4.7c36.3,36.3,72.6,72.5,108.9,108.9c2.9,2.9,5.2,6.4,7.8,9.5c0,2,0,4,0,6c-2.6,3.2-4.9,6.6-7.8,9.5
+                c-36.9,37-73.9,74-110.9,111c-5.8,5.8-12.1,6.5-17.3,2.1c-4.6-3.9-5.5-10.3-1.9-15.2c1.5-2,3.2-3.8,5-5.6c29.3-29.3,58.6-58.7,88-88
+                c1.3-1.3,2.6-2.8,4.8-5.1c-3.3,0-5.4,0-7.5,0c-149.4,0-298.8,0-448.2,0.1c-7.2,0-13.1-1.7-16.2-8.8C1,130.8,1,129.2,1,127.5z"></path>
+            </svg>
+            </span>
+        </div>
+    </div>
+</nav>
+</header>
+
+ <div class="pa5-l pa3-m">
+    <div class="mw8 center clearfix pv4 pt4-l ">
+        <div class="row">
+            <div class="fl w-100 w-50-ns" style="margin-bottom: -85px;">
+                <h1>
+                    <a href="/nightingale-protocol">
+                        <img src="/img/nightingale-protocol/logo.svg" alt="Nightingale Protocol">
+                    </a>
+                </h1>
+            </div>
+        </div>
+    </div>
+
+    <section  class="mw8 center bg-white pa4 br3 mb2" id="buy_section">
+        <div class="cf row w-100" id="nightingale-protocol">
+            <div class="fl w-100 w-50-ns pa2">
+                <img src="/img/nightingale-protocol/mpu.png">
+            </div>
+            <div class="fl w-100 w-50-ns ph3">
+                <p>The Nightingale Protocol is an artificial intelligence application that activates when its human host is ill. And this is one medical emergency that will stretch the program to it's limit...</p></p>
+            </div>
+        </div>
+    </section>
+
+    <section  class="mw8 center" id="buy_section">
+                
+        
+
+
+    </section>
+ </div>
+
+
+<div style="background-image:url('/img/nightingale-protocol/004.jpg')" class="bg-page" alt="Aya Begum - Book 1 - Page 021" title="Aya Begum - Book 1 - Page 021"></div>
+  
+  <!-- Modal -->
+
+
+<!-- Footer -->
+<footer class="clear">
+
+       <section class="about-section container" style="display: none;">
+            <div class="row about-profile">
+                <div class="col-sm-5 hidden-xs">
+                    <img src ="/theme/img/iqbal-profile-v2.png"/>
+                </div>
+                <div class="col-sm-7">
+                    <p><span class="strong">Hi, my name's Iqbal.</span>. I'm an independant comic creator.  I'm a passionate believer of comics as a storytelling medium. I'm planning to share my experiences on this site.</p>
+                    <p>Follow me:</p>
+                    <div class="share-links-follow">
+    <ul class="list-unstyled list-inline">
+       <li>
+            <a href="http://twitter.com/mildfrenzy" class="blue">
+                <span class="fa-stack fa-lg">
+                   <i class="fa fa-twitter-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="http://facebook.com/mildfrenzy" class="blue">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-facebook-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <!--
+        <li>
+            <a href="">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-linkedin-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+      -->
+        <li>
+            <a href="http://mildfrenzy.tumblr.com" class="blue">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-tumblr-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+        <!--
+        <li>
+            <a href="">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-google-plus-square fa-stack-1x"></i>
+                </span>
+            </a>
+        </li>
+      -->
+    </ul>
+</div>
+                </div>
+            </div>
+
+            <div class="row">
+               <div class="social">
+
+                   <ul class="list-inline">
+                        <li>
+                            <a href="">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-twitter-square fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-facebook-square fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <!--
+                        <li>
+                            <a href="">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-linkedin-square fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                      -->
+                        <li>
+                            <a href="">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-github-square fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="feeds/all.rss.xml">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-rss-square fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        </ul>
+
+
+                   </div>
+
+
+
+               </div>
+
+           </div>
+       </section>
+
+
+
+
+        <section class="book-footer container">
+
+                <!-- div class="col-sm-4">
+                    <h2>Articles tagged</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="http://www.mildfrenzy.com/tag/publishing">publishing</a> (2)</li>
+                        <li><a href="http://www.mildfrenzy.com/tag/reviews">reviews</a> (1)</li>
+                    </ul>
+                </div -->
+
+        </section>
+        <div class="w100 tc">
+            
+                <p class="near-white">
+                    © Copyright Iqbal Ali 2018. All rights reserved.
+                </p>
+        </div>
+    </div>
+</footer>
+
+
+
+<!-- Modal -->
+<div style="display:none" class="modal fade bs-example-modal-sm get-comics-modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h2 id="myModalLabel">Sign up to receive your fortnightly dose of comics</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+        <div id="mauticform_wrapper_mildfrenzynewsletterwebsite" class="mauticform_wrapper">
+                    <form autocomplete="false" role="form" method="post" id="mauticform_mildfrenzynewsletterwebsite" action="http://mautic.mildfrenzy.com/form/submit?formId=2" data-mautic-form="mildfrenzynewsletterwebsite" class="form-inline">
+                        <div class="mauticform-error" id="mauticform_mildfrenzynewsletterwebsite_error"></div>
+                        <div class="mauticform-message" id="mauticform_mildfrenzynewsletterwebsite_message"></div>
+
+
+                        <div id="mauticform_mildfrenzynewsletterwebsite_your_email"  data-validate="your_email" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-1 mauticform-required">
+                                <label id="mauticform_label_mildfrenzynewsletterwebsite_your_email" for="mauticform_input_mildfrenzynewsletterwebsite_your_email" class="mauticform-label">Your email</label>
+                                <input id="mauticform_input_mildfrenzynewsletterwebsite_your_email" name="mauticform[your_email]" value="" placeholder="Your email address" class="mauticform-input form-control" type="email" />
+                                <span class="mauticform-errormsg" style="display: none;">Sorry, I need an email address</span>
+                            </div>
+
+                            <div id="mauticform_mildfrenzynewsletterwebsite_your_first_name"  data-validate="your_first_name" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                                <label id="mauticform_label_mildfrenzynewsletterwebsite_your_first_name" for="mauticform_input_mildfrenzynewsletterwebsite_your_first_name" class="mauticform-label">Your name</label>
+                                <input id="mauticform_input_mildfrenzynewsletterwebsite_your_first_name" name="mauticform[your_first_name]" value="" placeholder="Your first name" class="form-control" type="text" />
+                                <span class="mauticform-errormsg" style="display: none;">Sorry, I need your first name</span>
+                            </div>
+
+                                <input id="mauticform_input_mildfrenzynewsletterwebsite_attribution" name="mauticform[attribution]" value="null" class="mauticform-hidden" type="hidden" />
+                            <div id="mauticform_mildfrenzynewsletterwebsite_submit"  class="mauticform-row mauticform-button-wrapper">
+                                <button type="submit" name="mauticform[submit]" id="mauticform_input_mildfrenzynewsletterwebsite_submit" name="mauticform[submit]" value="" class="mauticform-button btn btn-primary" value="1">Send it</button>
+                            </div>
+
+
+
+                        <input type="hidden" name="mauticform[formId]" id="mauticform_mildfrenzynewsletterwebsite_id" value="2"/>
+                        <input type="hidden" name="mauticform[return]" id="mauticform_mildfrenzynewsletterwebsite_return" value=""/>
+                        <input type="hidden" name="mauticform[formName]" id="mauticform_mildfrenzynewsletterwebsite_name" value="mildfrenzynewsletterwebsite"/>
+                        </form>
+
+
+                        </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<script type="text/javascript" src="/theme/js/main.js"></script>
+
+
+
+<script type="text/javascript">
+
+    /** This section is only needed once per page if manually copying **/
+    /*
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'http://mautic.mildfrenzy.com/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'http://mautic.mildfrenzy.com';
+        var MauticLang   = {
+            'submittingMessage': "Please wait..."
+        }
+    }
+    if(params["message"] && params["message"] === "thanks"){
+        $(".container.sign-up").hide();
+        $(".container.thanks").show();
+    }
+    $.get("http://ipinfo.io/json", function(response) {
+        var resp_json = JSON.parse(response);
+        //console.log('City')
+    }, "jsonp");
+
+    $( "#myModal" ).on('shown.bs.modal', function(){
+        $("#mauticform_input_mildfrenzynewsletterwebsite_your_email").focus()
+    });
+*/
+
+    
+</script>
+
+
+
+ <!-- script type="text/javascript">
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'http://www.mildfrenzy.com/mautic/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'http://www.mildfrenzy.com/mautic';
+        var MauticLang   = {
+            'submittingMessage': "Please wait..."
+        }
+    }
+
+    if(params.attr){
+        document.getElementById('mauticform_input_mildfrenzynewsletterwebsite_attribution').value = params.attr;
+    }
+
+    var section_intro_height = function(){return $("section.introduction").offsetHeight + "px"};
+    var $element = $("section.introduction");
+
+    var check_scroll_pos = function(){
+        if ($element.scrollHeight - $element.scrollTop === $element.clientHeight)
+        {
+            // element is at the end of its scroll, load more content
+
+        }
+    };
+
+    $.get("http://ipinfo.io/json", function(response) {
+        var resp_json = JSON.parse(response);
+        console.log('City')
+    }, "jsonp");
+
+    $("#mauticform_mildfrenzynewsletterwebsite").submit(function(e) {
+        var url = "http://mildfrenzy.com/mautic/form/submit?formId=2"; // the script where you handle the form input.
+        $.ajax({
+               type: "POST",
+               url: url,
+               data: $("#mauticform_mildfrenzynewsletterwebsite").serialize(),
+               headers:{
+                    "Access-Control-Allow-Credentials": true,
+                    "Access-Control-Allow-Header":"Origin, X-Requested-With, Content-Type, Accept"
+               } // serializes the form's elements.
+               success: function(data)
+               {
+                   alert(data); // show response from the php script.
+               }
+             });
+
+        e.preventDefault(); // avoid to execute the actual submit of the form.
+    });
+
+    $(document).ready(function()
+    {
+        $("#mauticform_mildfrenzynewsletterwebsite").submit(function(event)
+        {
+            $(this).find('.mauticform-button').prop('disabled', 'disabled');
+            $(this).submit();
+            event.preventDefault();
+        });
+    });
+
+</script -->
+
+
+
+    <!-- <script type="text/javascript">
+    var disqus_shortname = 'mildfrenzy';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+ -->
+</body>
+
+</html>

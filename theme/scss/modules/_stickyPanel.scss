@@ -1,0 +1,43 @@
+.sticky-panel{
+	background: #000;
+	padding: 5px 0;
+	z-index: 999;
+	display: none;
+	.is-sticky &{
+		display: block;
+		width: 100% !important;
+		@include border-box;
+	}
+	.button{
+		float: right;
+		@include respond-to-lower-than(screen-sm) {
+			height: 35px;
+			line-height: 35px;
+		}
+		@include respond-to-lower-than(handhelds) {
+			width: 100%;
+			@include border-box;
+		}
+	}
+	.logo{
+		height: 50px;
+		width: 155px;
+		float: left;
+		margin-right: 20px;
+		@include respond-to-lower-than(screen-sm) {
+			height: 35px;
+			width: 100px;
+		}
+		@include respond-to-lower-than(handhelds) {
+			display: none;
+		}
+	}
+	span{
+		color: #fff;
+		display: inline-block;
+		width: calc(100% - 470px);
+		@include respond-to-lower-than(screen-sm) {
+			display: none;
+		}
+	}
+}

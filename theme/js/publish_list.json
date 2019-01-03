@@ -1,0 +1,3723 @@
+{
+    "projects":[
+        {
+            "final_message":"",
+            "messages":[
+                "Not everything is as it seems. The latest page for Attack of the Marauders. More at",
+                "A son's mission to discover why his father turned into a monster. The latest page for Attack of the Marauders. More at",
+                "Who are the marauders? The latest page for Attack of the Marauders. More at",
+                "Here's the latest page of sci-fi webcomic: Attack of the Marauders. More at",
+                "That time of the week again. Here's the latest page of Attack of the Marauders. More at",
+                "It's Attack of the Marauders! Read the webcomic at",
+                "A new page every 4 days. Here's the latest of Attack of the Marauders. More at",
+                "What do the marauders want? The latest page for Attack of the Marauders. More at",
+                "Attack of the Marauders is a serialised webcomic. Here's the latest page. More at",
+                "Attack of the Marauders new page. Check out the story far at"
+            ],
+            "name":"Attack of the Marauders",
+            "pages":111,
+            "publish_freq":4,
+            "publish_info":[
+                {
+                    "date":"2018-03-07 00:00:00",
+                    "page":"001",
+                    "url":"/attack-of-the-marauders?page=2018-03-07-001"
+                },
+                {
+                    "date":"2018-03-11 00:00:00",
+                    "page":"002",
+                    "url":"/attack-of-the-marauders?page=2018-03-11-002"
+                },
+                {
+                    "date":"2018-03-15 00:00:00",
+                    "page":"003",
+                    "url":"/attack-of-the-marauders?page=2018-03-15-003"
+                },
+                {
+                    "date":"2018-03-19 00:00:00",
+                    "page":"004",
+                    "url":"/attack-of-the-marauders?page=2018-03-19-004"
+                },
+                {
+                    "date":"2018-03-23 00:00:00",
+                    "page":"005",
+                    "url":"/attack-of-the-marauders?page=2018-03-23-005"
+                },
+                {
+                    "date":"2018-03-27 00:00:00",
+                    "page":"006",
+                    "url":"/attack-of-the-marauders?page=2018-03-27-006"
+                },
+                {
+                    "date":"2018-03-31 00:00:00",
+                    "page":"007",
+                    "url":"/attack-of-the-marauders?page=2018-03-31-007"
+                },
+                {
+                    "date":"2018-04-04 00:00:00",
+                    "page":"008",
+                    "url":"/attack-of-the-marauders?page=2018-04-04-008"
+                },
+                {
+                    "date":"2018-04-08 00:00:00",
+                    "page":"009",
+                    "url":"/attack-of-the-marauders?page=2018-04-08-009"
+                },
+                {
+                    "date":"2018-04-12 00:00:00",
+                    "page":"010",
+                    "url":"/attack-of-the-marauders?page=2018-04-12-010"
+                },
+                {
+                    "date":"2018-04-16 00:00:00",
+                    "page":"011",
+                    "url":"/attack-of-the-marauders?page=2018-04-16-011"
+                },
+                {
+                    "date":"2018-04-20 00:00:00",
+                    "page":"012",
+                    "url":"/attack-of-the-marauders?page=2018-04-20-012"
+                },
+                {
+                    "date":"2018-04-24 00:00:00",
+                    "page":"013",
+                    "url":"/attack-of-the-marauders?page=2018-04-24-013"
+                },
+                {
+                    "date":"2018-04-28 00:00:00",
+                    "page":"014",
+                    "url":"/attack-of-the-marauders?page=2018-04-28-014"
+                },
+                {
+                    "date":"2018-05-02 00:00:00",
+                    "page":"015",
+                    "url":"/attack-of-the-marauders?page=2018-05-02-015"
+                },
+                {
+                    "date":"2018-05-06 00:00:00",
+                    "page":"016",
+                    "url":"/attack-of-the-marauders?page=2018-05-06-016"
+                },
+                {
+                    "date":"2018-05-10 00:00:00",
+                    "page":"017",
+                    "url":"/attack-of-the-marauders?page=2018-05-10-017"
+                },
+                {
+                    "date":"2018-05-14 00:00:00",
+                    "page":"018",
+                    "url":"/attack-of-the-marauders?page=2018-05-14-018"
+                },
+                {
+                    "date":"2018-05-18 00:00:00",
+                    "page":"019",
+                    "url":"/attack-of-the-marauders?page=2018-05-18-019"
+                },
+                {
+                    "date":"2018-05-22 00:00:00",
+                    "page":"020",
+                    "url":"/attack-of-the-marauders?page=2018-05-22-020"
+                },
+                {
+                    "date":"2018-05-26 00:00:00",
+                    "page":"021",
+                    "url":"/attack-of-the-marauders?page=2018-05-26-021"
+                },
+                {
+                    "date":"2018-05-30 00:00:00",
+                    "page":"022",
+                    "url":"/attack-of-the-marauders?page=2018-05-30-022"
+                },
+                {
+                    "date":"2018-06-03 00:00:00",
+                    "page":"023",
+                    "url":"/attack-of-the-marauders?page=2018-06-03-023"
+                },
+                {
+                    "date":"2018-06-07 00:00:00",
+                    "page":"024",
+                    "url":"/attack-of-the-marauders?page=2018-06-07-024"
+                },
+                {
+                    "date":"2018-06-11 00:00:00",
+                    "page":"025",
+                    "url":"/attack-of-the-marauders?page=2018-06-11-025"
+                },
+                {
+                    "date":"2018-06-15 00:00:00",
+                    "page":"026",
+                    "url":"/attack-of-the-marauders?page=2018-06-15-026"
+                },
+                {
+                    "date":"2018-06-19 00:00:00",
+                    "page":"027",
+                    "url":"/attack-of-the-marauders?page=2018-06-19-027"
+                },
+                {
+                    "date":"2018-06-23 00:00:00",
+                    "page":"028",
+                    "url":"/attack-of-the-marauders?page=2018-06-23-028"
+                },
+                {
+                    "date":"2018-06-27 00:00:00",
+                    "page":"029",
+                    "url":"/attack-of-the-marauders?page=2018-06-27-029"
+                },
+                {
+                    "date":"2018-07-01 00:00:00",
+                    "page":"030",
+                    "url":"/attack-of-the-marauders?page=2018-07-01-030"
+                },
+                {
+                    "date":"2018-07-05 00:00:00",
+                    "page":"031",
+                    "url":"/attack-of-the-marauders?page=2018-07-05-031"
+                },
+                {
+                    "date":"2018-07-09 00:00:00",
+                    "page":"032",
+                    "url":"/attack-of-the-marauders?page=2018-07-09-032"
+                },
+                {
+                    "date":"2018-07-13 00:00:00",
+                    "page":"033",
+                    "url":"/attack-of-the-marauders?page=2018-07-13-033"
+                },
+                {
+                    "date":"2018-07-17 00:00:00",
+                    "page":"034",
+                    "url":"/attack-of-the-marauders?page=2018-07-17-034"
+                },
+                {
+                    "date":"2018-07-21 00:00:00",
+                    "page":"035",
+                    "url":"/attack-of-the-marauders?page=2018-07-21-035"
+                },
+                {
+                    "date":"2018-07-25 00:00:00",
+                    "page":"036",
+                    "url":"/attack-of-the-marauders?page=2018-07-25-036"
+                },
+                {
+                    "date":"2018-07-29 00:00:00",
+                    "page":"037",
+                    "url":"/attack-of-the-marauders?page=2018-07-29-037"
+                },
+                {
+                    "date":"2018-08-02 00:00:00",
+                    "page":"038",
+                    "url":"/attack-of-the-marauders?page=2018-08-02-038"
+                },
+                {
+                    "date":"2018-08-06 00:00:00",
+                    "page":"039",
+                    "url":"/attack-of-the-marauders?page=2018-08-06-039"
+                },
+                {
+                    "date":"2018-08-10 00:00:00",
+                    "page":"040",
+                    "url":"/attack-of-the-marauders?page=2018-08-10-040"
+                },
+                {
+                    "date":"2018-08-14 00:00:00",
+                    "page":"041",
+                    "url":"/attack-of-the-marauders?page=2018-08-14-041"
+                },
+                {
+                    "date":"2018-08-18 00:00:00",
+                    "page":"042",
+                    "url":"/attack-of-the-marauders?page=2018-08-18-042"
+                },
+                {
+                    "date":"2018-08-22 00:00:00",
+                    "page":"043",
+                    "url":"/attack-of-the-marauders?page=2018-08-22-043"
+                },
+                {
+                    "date":"2018-08-26 00:00:00",
+                    "page":"044",
+                    "url":"/attack-of-the-marauders?page=2018-08-26-044"
+                },
+                {
+                    "date":"2018-08-30 00:00:00",
+                    "page":"045",
+                    "url":"/attack-of-the-marauders?page=2018-08-30-045"
+                },
+                {
+                    "date":"2018-09-03 00:00:00",
+                    "page":"046",
+                    "url":"/attack-of-the-marauders?page=2018-09-03-046"
+                },
+                {
+                    "date":"2018-09-07 00:00:00",
+                    "page":"047",
+                    "url":"/attack-of-the-marauders?page=2018-09-07-047"
+                },
+                {
+                    "date":"2018-09-11 00:00:00",
+                    "page":"048",
+                    "url":"/attack-of-the-marauders?page=2018-09-11-048"
+                },
+                {
+                    "date":"2018-09-15 00:00:00",
+                    "page":"049",
+                    "url":"/attack-of-the-marauders?page=2018-09-15-049"
+                },
+                {
+                    "date":"2018-09-19 00:00:00",
+                    "page":"050",
+                    "url":"/attack-of-the-marauders?page=2018-09-19-050"
+                },
+                {
+                    "date":"2018-09-23 00:00:00",
+                    "page":"051",
+                    "url":"/attack-of-the-marauders?page=2018-09-23-051"
+                },
+                {
+                    "date":"2018-09-27 00:00:00",
+                    "page":"052",
+                    "url":"/attack-of-the-marauders?page=2018-09-27-052"
+                },
+                {
+                    "date":"2018-10-01 00:00:00",
+                    "page":"053",
+                    "url":"/attack-of-the-marauders?page=2018-10-01-053"
+                },
+                {
+                    "date":"2018-10-05 00:00:00",
+                    "page":"054",
+                    "url":"/attack-of-the-marauders?page=2018-10-05-054"
+                },
+                {
+                    "date":"2018-10-09 00:00:00",
+                    "page":"055",
+                    "url":"/attack-of-the-marauders?page=2018-10-09-055"
+                },
+                {
+                    "date":"2018-10-13 00:00:00",
+                    "page":"056",
+                    "url":"/attack-of-the-marauders?page=2018-10-13-056"
+                },
+                {
+                    "date":"2018-10-17 00:00:00",
+                    "page":"057",
+                    "url":"/attack-of-the-marauders?page=2018-10-17-057"
+                },
+                {
+                    "date":"2018-10-21 00:00:00",
+                    "page":"058",
+                    "url":"/attack-of-the-marauders?page=2018-10-21-058"
+                },
+                {
+                    "date":"2018-10-25 00:00:00",
+                    "page":"059",
+                    "url":"/attack-of-the-marauders?page=2018-10-25-059"
+                },
+                {
+                    "date":"2018-10-29 00:00:00",
+                    "page":"060",
+                    "url":"/attack-of-the-marauders?page=2018-10-29-060"
+                },
+                {
+                    "date":"2018-11-02 00:00:00",
+                    "page":"061",
+                    "url":"/attack-of-the-marauders?page=2018-11-02-061"
+                },
+                {
+                    "date":"2018-11-06 00:00:00",
+                    "page":"062",
+                    "url":"/attack-of-the-marauders?page=2018-11-06-062"
+                },
+                {
+                    "date":"2018-11-10 00:00:00",
+                    "page":"063",
+                    "url":"/attack-of-the-marauders?page=2018-11-10-063"
+                },
+                {
+                    "date":"2018-11-14 00:00:00",
+                    "page":"064",
+                    "url":"/attack-of-the-marauders?page=2018-11-14-064"
+                },
+                {
+                    "date":"2018-11-18 00:00:00",
+                    "page":"065",
+                    "url":"/attack-of-the-marauders?page=2018-11-18-065"
+                },
+                {
+                    "date":"2018-11-22 00:00:00",
+                    "page":"066",
+                    "url":"/attack-of-the-marauders?page=2018-11-22-066"
+                },
+                {
+                    "date":"2018-11-26 00:00:00",
+                    "page":"067",
+                    "url":"/attack-of-the-marauders?page=2018-11-26-067"
+                },
+                {
+                    "date":"2018-11-30 00:00:00",
+                    "page":"068",
+                    "url":"/attack-of-the-marauders?page=2018-11-30-068"
+                },
+                {
+                    "date":"2018-12-04 00:00:00",
+                    "page":"069",
+                    "url":"/attack-of-the-marauders?page=2018-12-04-069"
+                },
+                {
+                    "date":"2018-12-08 00:00:00",
+                    "page":"070",
+                    "url":"/attack-of-the-marauders?page=2018-12-08-070"
+                },
+                {
+                    "date":"2018-12-12 00:00:00",
+                    "page":"071",
+                    "url":"/attack-of-the-marauders?page=2018-12-12-071"
+                },
+                {
+                    "date":"2018-12-16 00:00:00",
+                    "page":"072",
+                    "url":"/attack-of-the-marauders?page=2018-12-16-072"
+                },
+                {
+                    "date":"2018-12-20 00:00:00",
+                    "page":"073",
+                    "url":"/attack-of-the-marauders?page=2018-12-20-073"
+                },
+                {
+                    "date":"2018-12-24 00:00:00",
+                    "page":"074",
+                    "url":"/attack-of-the-marauders?page=2018-12-24-074"
+                },
+                {
+                    "date":"2018-12-28 00:00:00",
+                    "page":"075",
+                    "url":"/attack-of-the-marauders?page=2018-12-28-075"
+                },
+                {
+                    "date":"2019-01-01 00:00:00",
+                    "page":"076",
+                    "url":"/attack-of-the-marauders?page=2019-01-01-076"
+                },
+                {
+                    "date":"2019-01-05 00:00:00",
+                    "page":"077",
+                    "url":"/attack-of-the-marauders?page=2019-01-05-077"
+                },
+                {
+                    "date":"2019-01-09 00:00:00",
+                    "page":"078",
+                    "url":"/attack-of-the-marauders?page=2019-01-09-078"
+                },
+                {
+                    "date":"2019-01-13 00:00:00",
+                    "page":"079",
+                    "url":"/attack-of-the-marauders?page=2019-01-13-079"
+                },
+                {
+                    "date":"2019-01-17 00:00:00",
+                    "page":"080",
+                    "url":"/attack-of-the-marauders?page=2019-01-17-080"
+                },
+                {
+                    "date":"2019-01-21 00:00:00",
+                    "page":"081",
+                    "url":"/attack-of-the-marauders?page=2019-01-21-081"
+                },
+                {
+                    "date":"2019-01-25 00:00:00",
+                    "page":"082",
+                    "url":"/attack-of-the-marauders?page=2019-01-25-082"
+                },
+                {
+                    "date":"2019-01-29 00:00:00",
+                    "page":"083",
+                    "url":"/attack-of-the-marauders?page=2019-01-29-083"
+                },
+                {
+                    "date":"2019-02-02 00:00:00",
+                    "page":"084",
+                    "url":"/attack-of-the-marauders?page=2019-02-02-084"
+                },
+                {
+                    "date":"2019-02-06 00:00:00",
+                    "page":"085",
+                    "url":"/attack-of-the-marauders?page=2019-02-06-085"
+                },
+                {
+                    "date":"2019-02-10 00:00:00",
+                    "page":"086",
+                    "url":"/attack-of-the-marauders?page=2019-02-10-086"
+                },
+                {
+                    "date":"2019-02-14 00:00:00",
+                    "page":"087",
+                    "url":"/attack-of-the-marauders?page=2019-02-14-087"
+                },
+                {
+                    "date":"2019-02-18 00:00:00",
+                    "page":"088",
+                    "url":"/attack-of-the-marauders?page=2019-02-18-088"
+                },
+                {
+                    "date":"2019-02-22 00:00:00",
+                    "page":"089",
+                    "url":"/attack-of-the-marauders?page=2019-02-22-089"
+                },
+                {
+                    "date":"2019-02-26 00:00:00",
+                    "page":"090",
+                    "url":"/attack-of-the-marauders?page=2019-02-26-090"
+                },
+                {
+                    "date":"2019-03-02 00:00:00",
+                    "page":"091",
+                    "url":"/attack-of-the-marauders?page=2019-03-02-091"
+                },
+                {
+                    "date":"2019-03-06 00:00:00",
+                    "page":"092",
+                    "url":"/attack-of-the-marauders?page=2019-03-06-092"
+                },
+                {
+                    "date":"2019-03-10 00:00:00",
+                    "page":"093",
+                    "url":"/attack-of-the-marauders?page=2019-03-10-093"
+                },
+                {
+                    "date":"2019-03-14 00:00:00",
+                    "page":"094",
+                    "url":"/attack-of-the-marauders?page=2019-03-14-094"
+                },
+                {
+                    "date":"2019-03-18 00:00:00",
+                    "page":"095",
+                    "url":"/attack-of-the-marauders?page=2019-03-18-095"
+                },
+                {
+                    "date":"2019-03-22 00:00:00",
+                    "page":"096",
+                    "url":"/attack-of-the-marauders?page=2019-03-22-096"
+                },
+                {
+                    "date":"2019-03-26 00:00:00",
+                    "page":"097",
+                    "url":"/attack-of-the-marauders?page=2019-03-26-097"
+                },
+                {
+                    "date":"2019-03-30 00:00:00",
+                    "page":"098",
+                    "url":"/attack-of-the-marauders?page=2019-03-30-098"
+                },
+                {
+                    "date":"2019-04-03 00:00:00",
+                    "page":"099",
+                    "url":"/attack-of-the-marauders?page=2019-04-03-099"
+                },
+                {
+                    "date":"2019-04-07 00:00:00",
+                    "page":"100",
+                    "url":"/attack-of-the-marauders?page=2019-04-07-100"
+                },
+                {
+                    "date":"2019-04-11 00:00:00",
+                    "page":"101",
+                    "url":"/attack-of-the-marauders?page=2019-04-11-101"
+                },
+                {
+                    "date":"2019-04-15 00:00:00",
+                    "page":"102",
+                    "url":"/attack-of-the-marauders?page=2019-04-15-102"
+                },
+                {
+                    "date":"2019-04-19 00:00:00",
+                    "page":"103",
+                    "url":"/attack-of-the-marauders?page=2019-04-19-103"
+                },
+                {
+                    "date":"2019-04-23 00:00:00",
+                    "page":"104",
+                    "url":"/attack-of-the-marauders?page=2019-04-23-104"
+                },
+                {
+                    "date":"2019-04-27 00:00:00",
+                    "page":"105",
+                    "url":"/attack-of-the-marauders?page=2019-04-27-105"
+                },
+                {
+                    "date":"2019-05-01 00:00:00",
+                    "page":"106",
+                    "url":"/attack-of-the-marauders?page=2019-05-01-106"
+                },
+                {
+                    "date":"2019-05-05 00:00:00",
+                    "page":"107",
+                    "url":"/attack-of-the-marauders?page=2019-05-05-107"
+                },
+                {
+                    "date":"2019-05-09 00:00:00",
+                    "page":"108",
+                    "url":"/attack-of-the-marauders?page=2019-05-09-108"
+                },
+                {
+                    "date":"2019-05-13 00:00:00",
+                    "page":"109",
+                    "url":"/attack-of-the-marauders?page=2019-05-13-109"
+                },
+                {
+                    "date":"2019-05-17 00:00:00",
+                    "page":"110",
+                    "url":"/attack-of-the-marauders?page=2019-05-17-110"
+                },
+                {
+                    "date":"2019-05-21 00:00:00",
+                    "page":"111",
+                    "url":"/attack-of-the-marauders?page=2019-05-21-111"
+                }
+            ],
+            "publish_start":"2018-03-03 00:00:00",
+            "slug":"attack-of-the-marauders"
+        },
+        {
+            "final_message":"",
+            "messages":[
+                "The story of a plane lost through a wormhole. Here's latest page of Strange Skies. More at",
+                "Lost in strange skies. The latest page of Strange Skies webcomic is now available at",
+                "'Strange Skies Paints a Raw Picture of Humanity'- Review from @AP2HC. The latest page of Strange Skies available now",
+                "Get yourself hooked into this webcomic! The latest page of Strange Skies available now",
+                "Things are gonna get weird as passengers are lost is strange skies. The latest page of Strange Skies available now",
+                "Now boarding: a flight through a wormhole. The latest page of Strange Skies available now",
+                "Have you been following the story of a doomed flight through a wormhole? The latest page of Strange Skies available now",
+                "Did I mention that Strange Skies is now a free web comic? Cos the latest page is available now",
+                "Things sure look bad for this flight. The latest page of Strange Skies is available now at",
+                "Strange Skies. The latest page of the webcomic is now available at",
+                "It's about the journey. A journey into strange skies, that is. Read the latest page of Strange Skies",
+                "You could cut the tension with a knife. Read the latest page of Strange Skies",
+                "A new page of Strange Skies every 4 days! Here's the latest one",
+                "This journey is seriously messed up! Here's the latest page of Strange Skies. More at",
+                "Beyond the confines of this cabin, is...something. Read the latest page of Strange Skies. More at",
+                "Here's the latest page of thriller webcomic: Strange Skies. More at",
+                "That time of the week again. Here's the latest page of Strange Skies. More at",
+                "Strange Skies new page. Check out the story far at"
+            ],
+            "name":"Strange Skies",
+            "pages":165,
+            "publish_freq":4,
+            "publish_info":[
+                {
+                    "date":"2018-03-09 00:00:00",
+                    "page":"001",
+                    "url":"/strange-skies?page=2018-03-09-001"
+                },
+                {
+                    "date":"2018-03-13 00:00:00",
+                    "page":"002",
+                    "url":"/strange-skies?page=2018-03-13-002"
+                },
+                {
+                    "date":"2018-03-17 00:00:00",
+                    "page":"003",
+                    "url":"/strange-skies?page=2018-03-17-003"
+                },
+                {
+                    "date":"2018-03-21 00:00:00",
+                    "page":"004",
+                    "url":"/strange-skies?page=2018-03-21-004"
+                },
+                {
+                    "date":"2018-03-25 00:00:00",
+                    "page":"005",
+                    "url":"/strange-skies?page=2018-03-25-005"
+                },
+                {
+                    "date":"2018-03-29 00:00:00",
+                    "page":"006",
+                    "url":"/strange-skies?page=2018-03-29-006"
+                },
+                {
+                    "date":"2018-04-02 00:00:00",
+                    "page":"007",
+                    "url":"/strange-skies?page=2018-04-02-007"
+                },
+                {
+                    "date":"2018-04-06 00:00:00",
+                    "page":"008",
+                    "url":"/strange-skies?page=2018-04-06-008"
+                },
+                {
+                    "date":"2018-04-10 00:00:00",
+                    "page":"009",
+                    "url":"/strange-skies?page=2018-04-10-009"
+                },
+                {
+                    "date":"2018-04-14 00:00:00",
+                    "page":"010",
+                    "url":"/strange-skies?page=2018-04-14-010"
+                },
+                {
+                    "date":"2018-04-18 00:00:00",
+                    "page":"011",
+                    "url":"/strange-skies?page=2018-04-18-011"
+                },
+                {
+                    "date":"2018-04-22 00:00:00",
+                    "page":"012",
+                    "url":"/strange-skies?page=2018-04-22-012"
+                },
+                {
+                    "date":"2018-04-26 00:00:00",
+                    "page":"013",
+                    "url":"/strange-skies?page=2018-04-26-013"
+                },
+                {
+                    "date":"2018-04-30 00:00:00",
+                    "page":"014",
+                    "url":"/strange-skies?page=2018-04-30-014"
+                },
+                {
+                    "date":"2018-05-04 00:00:00",
+                    "page":"015",
+                    "url":"/strange-skies?page=2018-05-04-015"
+                },
+                {
+                    "date":"2018-05-08 00:00:00",
+                    "page":"016",
+                    "url":"/strange-skies?page=2018-05-08-016"
+                },
+                {
+                    "date":"2018-05-12 00:00:00",
+                    "page":"017",
+                    "url":"/strange-skies?page=2018-05-12-017"
+                },
+                {
+                    "date":"2018-05-16 00:00:00",
+                    "page":"018",
+                    "url":"/strange-skies?page=2018-05-16-018"
+                },
+                {
+                    "date":"2018-05-20 00:00:00",
+                    "page":"019",
+                    "url":"/strange-skies?page=2018-05-20-019"
+                },
+                {
+                    "date":"2018-05-24 00:00:00",
+                    "page":"020",
+                    "url":"/strange-skies?page=2018-05-24-020"
+                },
+                {
+                    "date":"2018-05-28 00:00:00",
+                    "page":"021",
+                    "url":"/strange-skies?page=2018-05-28-021"
+                },
+                {
+                    "date":"2018-06-01 00:00:00",
+                    "page":"022",
+                    "url":"/strange-skies?page=2018-06-01-022"
+                },
+                {
+                    "date":"2018-06-05 00:00:00",
+                    "page":"023",
+                    "url":"/strange-skies?page=2018-06-05-023"
+                },
+                {
+                    "date":"2018-06-09 00:00:00",
+                    "page":"024",
+                    "url":"/strange-skies?page=2018-06-09-024"
+                },
+                {
+                    "date":"2018-06-13 00:00:00",
+                    "page":"025",
+                    "url":"/strange-skies?page=2018-06-13-025"
+                },
+                {
+                    "date":"2018-06-17 00:00:00",
+                    "page":"026",
+                    "url":"/strange-skies?page=2018-06-17-026"
+                },
+                {
+                    "date":"2018-06-21 00:00:00",
+                    "page":"027",
+                    "url":"/strange-skies?page=2018-06-21-027"
+                },
+                {
+                    "date":"2018-06-25 00:00:00",
+                    "page":"028",
+                    "url":"/strange-skies?page=2018-06-25-028"
+                },
+                {
+                    "date":"2018-06-29 00:00:00",
+                    "page":"029",
+                    "url":"/strange-skies?page=2018-06-29-029"
+                },
+                {
+                    "date":"2018-07-03 00:00:00",
+                    "page":"030",
+                    "url":"/strange-skies?page=2018-07-03-030"
+                },
+                {
+                    "date":"2018-07-07 00:00:00",
+                    "page":"031",
+                    "url":"/strange-skies?page=2018-07-07-031"
+                },
+                {
+                    "date":"2018-07-11 00:00:00",
+                    "page":"032",
+                    "url":"/strange-skies?page=2018-07-11-032"
+                },
+                {
+                    "date":"2018-07-15 00:00:00",
+                    "page":"033",
+                    "url":"/strange-skies?page=2018-07-15-033"
+                },
+                {
+                    "date":"2018-07-19 00:00:00",
+                    "page":"034",
+                    "url":"/strange-skies?page=2018-07-19-034"
+                },
+                {
+                    "date":"2018-07-23 00:00:00",
+                    "page":"035",
+                    "url":"/strange-skies?page=2018-07-23-035"
+                },
+                {
+                    "date":"2018-07-27 00:00:00",
+                    "page":"036",
+                    "url":"/strange-skies?page=2018-07-27-036"
+                },
+                {
+                    "date":"2018-07-31 00:00:00",
+                    "page":"037",
+                    "url":"/strange-skies?page=2018-07-31-037"
+                },
+                {
+                    "date":"2018-08-04 00:00:00",
+                    "page":"038",
+                    "url":"/strange-skies?page=2018-08-04-038"
+                },
+                {
+                    "date":"2018-08-08 00:00:00",
+                    "page":"039",
+                    "url":"/strange-skies?page=2018-08-08-039"
+                },
+                {
+                    "date":"2018-08-12 00:00:00",
+                    "page":"040",
+                    "url":"/strange-skies?page=2018-08-12-040"
+                },
+                {
+                    "date":"2018-08-16 00:00:00",
+                    "page":"041",
+                    "url":"/strange-skies?page=2018-08-16-041"
+                },
+                {
+                    "date":"2018-08-20 00:00:00",
+                    "page":"042",
+                    "url":"/strange-skies?page=2018-08-20-042"
+                },
+                {
+                    "date":"2018-08-24 00:00:00",
+                    "page":"043",
+                    "url":"/strange-skies?page=2018-08-24-043"
+                },
+                {
+                    "date":"2018-08-28 00:00:00",
+                    "page":"044",
+                    "url":"/strange-skies?page=2018-08-28-044"
+                },
+                {
+                    "date":"2018-09-01 00:00:00",
+                    "page":"045",
+                    "url":"/strange-skies?page=2018-09-01-045"
+                },
+                {
+                    "date":"2018-09-05 00:00:00",
+                    "page":"046",
+                    "url":"/strange-skies?page=2018-09-05-046"
+                },
+                {
+                    "date":"2018-09-09 00:00:00",
+                    "page":"047",
+                    "url":"/strange-skies?page=2018-09-09-047"
+                },
+                {
+                    "date":"2018-09-13 00:00:00",
+                    "page":"048",
+                    "url":"/strange-skies?page=2018-09-13-048"
+                },
+                {
+                    "date":"2018-09-17 00:00:00",
+                    "page":"049",
+                    "url":"/strange-skies?page=2018-09-17-049"
+                },
+                {
+                    "date":"2018-09-21 00:00:00",
+                    "page":"050",
+                    "url":"/strange-skies?page=2018-09-21-050"
+                },
+                {
+                    "date":"2018-09-25 00:00:00",
+                    "page":"051",
+                    "url":"/strange-skies?page=2018-09-25-051"
+                },
+                {
+                    "date":"2018-09-29 00:00:00",
+                    "page":"052",
+                    "url":"/strange-skies?page=2018-09-29-052"
+                },
+                {
+                    "date":"2018-10-03 00:00:00",
+                    "page":"053",
+                    "url":"/strange-skies?page=2018-10-03-053"
+                },
+                {
+                    "date":"2018-10-07 00:00:00",
+                    "page":"054",
+                    "url":"/strange-skies?page=2018-10-07-054"
+                },
+                {
+                    "date":"2018-10-11 00:00:00",
+                    "page":"055",
+                    "url":"/strange-skies?page=2018-10-11-055"
+                },
+                {
+                    "date":"2018-10-15 00:00:00",
+                    "page":"056",
+                    "url":"/strange-skies?page=2018-10-15-056"
+                },
+                {
+                    "date":"2018-10-19 00:00:00",
+                    "page":"057",
+                    "url":"/strange-skies?page=2018-10-19-057"
+                },
+                {
+                    "date":"2018-10-23 00:00:00",
+                    "page":"058",
+                    "url":"/strange-skies?page=2018-10-23-058"
+                },
+                {
+                    "date":"2018-10-27 00:00:00",
+                    "page":"059",
+                    "url":"/strange-skies?page=2018-10-27-059"
+                },
+                {
+                    "date":"2018-10-31 00:00:00",
+                    "page":"060",
+                    "url":"/strange-skies?page=2018-10-31-060"
+                },
+                {
+                    "date":"2018-11-04 00:00:00",
+                    "page":"061",
+                    "url":"/strange-skies?page=2018-11-04-061"
+                },
+                {
+                    "date":"2018-11-08 00:00:00",
+                    "page":"062",
+                    "url":"/strange-skies?page=2018-11-08-062"
+                },
+                {
+                    "date":"2018-11-12 00:00:00",
+                    "page":"063",
+                    "url":"/strange-skies?page=2018-11-12-063"
+                },
+                {
+                    "date":"2018-11-16 00:00:00",
+                    "page":"064",
+                    "url":"/strange-skies?page=2018-11-16-064"
+                },
+                {
+                    "date":"2018-11-20 00:00:00",
+                    "page":"065",
+                    "url":"/strange-skies?page=2018-11-20-065"
+                },
+                {
+                    "date":"2018-11-24 00:00:00",
+                    "page":"066",
+                    "url":"/strange-skies?page=2018-11-24-066"
+                },
+                {
+                    "date":"2018-11-28 00:00:00",
+                    "page":"067",
+                    "url":"/strange-skies?page=2018-11-28-067"
+                },
+                {
+                    "date":"2018-12-02 00:00:00",
+                    "page":"068",
+                    "url":"/strange-skies?page=2018-12-02-068"
+                },
+                {
+                    "date":"2018-12-06 00:00:00",
+                    "page":"069",
+                    "url":"/strange-skies?page=2018-12-06-069"
+                },
+                {
+                    "date":"2018-12-10 00:00:00",
+                    "page":"070",
+                    "url":"/strange-skies?page=2018-12-10-070"
+                },
+                {
+                    "date":"2018-12-14 00:00:00",
+                    "page":"071",
+                    "url":"/strange-skies?page=2018-12-14-071"
+                },
+                {
+                    "date":"2018-12-18 00:00:00",
+                    "page":"072",
+                    "url":"/strange-skies?page=2018-12-18-072"
+                },
+                {
+                    "date":"2018-12-22 00:00:00",
+                    "page":"073",
+                    "url":"/strange-skies?page=2018-12-22-073"
+                },
+                {
+                    "date":"2018-12-26 00:00:00",
+                    "page":"074",
+                    "url":"/strange-skies?page=2018-12-26-074"
+                },
+                {
+                    "date":"2018-12-30 00:00:00",
+                    "page":"075",
+                    "url":"/strange-skies?page=2018-12-30-075"
+                },
+                {
+                    "date":"2019-01-03 00:00:00",
+                    "page":"076",
+                    "url":"/strange-skies?page=2019-01-03-076"
+                },
+                {
+                    "date":"2019-01-07 00:00:00",
+                    "page":"077",
+                    "url":"/strange-skies?page=2019-01-07-077"
+                },
+                {
+                    "date":"2019-01-11 00:00:00",
+                    "page":"078",
+                    "url":"/strange-skies?page=2019-01-11-078"
+                },
+                {
+                    "date":"2019-01-15 00:00:00",
+                    "page":"079",
+                    "url":"/strange-skies?page=2019-01-15-079"
+                },
+                {
+                    "date":"2019-01-19 00:00:00",
+                    "page":"080",
+                    "url":"/strange-skies?page=2019-01-19-080"
+                },
+                {
+                    "date":"2019-01-23 00:00:00",
+                    "page":"081",
+                    "url":"/strange-skies?page=2019-01-23-081"
+                },
+                {
+                    "date":"2019-01-27 00:00:00",
+                    "page":"082",
+                    "url":"/strange-skies?page=2019-01-27-082"
+                },
+                {
+                    "date":"2019-01-31 00:00:00",
+                    "page":"083",
+                    "url":"/strange-skies?page=2019-01-31-083"
+                },
+                {
+                    "date":"2019-02-04 00:00:00",
+                    "page":"084",
+                    "url":"/strange-skies?page=2019-02-04-084"
+                },
+                {
+                    "date":"2019-02-08 00:00:00",
+                    "page":"085",
+                    "url":"/strange-skies?page=2019-02-08-085"
+                },
+                {
+                    "date":"2019-02-12 00:00:00",
+                    "page":"086",
+                    "url":"/strange-skies?page=2019-02-12-086"
+                },
+                {
+                    "date":"2019-02-16 00:00:00",
+                    "page":"087",
+                    "url":"/strange-skies?page=2019-02-16-087"
+                },
+                {
+                    "date":"2019-02-20 00:00:00",
+                    "page":"088",
+                    "url":"/strange-skies?page=2019-02-20-088"
+                },
+                {
+                    "date":"2019-02-24 00:00:00",
+                    "page":"089",
+                    "url":"/strange-skies?page=2019-02-24-089"
+                },
+                {
+                    "date":"2019-02-28 00:00:00",
+                    "page":"090",
+                    "url":"/strange-skies?page=2019-02-28-090"
+                },
+                {
+                    "date":"2019-03-04 00:00:00",
+                    "page":"091",
+                    "url":"/strange-skies?page=2019-03-04-091"
+                },
+                {
+                    "date":"2019-03-08 00:00:00",
+                    "page":"092",
+                    "url":"/strange-skies?page=2019-03-08-092"
+                },
+                {
+                    "date":"2019-03-12 00:00:00",
+                    "page":"093",
+                    "url":"/strange-skies?page=2019-03-12-093"
+                },
+                {
+                    "date":"2019-03-16 00:00:00",
+                    "page":"094",
+                    "url":"/strange-skies?page=2019-03-16-094"
+                },
+                {
+                    "date":"2019-03-20 00:00:00",
+                    "page":"095",
+                    "url":"/strange-skies?page=2019-03-20-095"
+                },
+                {
+                    "date":"2019-03-24 00:00:00",
+                    "page":"096",
+                    "url":"/strange-skies?page=2019-03-24-096"
+                },
+                {
+                    "date":"2019-03-28 00:00:00",
+                    "page":"097",
+                    "url":"/strange-skies?page=2019-03-28-097"
+                },
+                {
+                    "date":"2019-04-01 00:00:00",
+                    "page":"098",
+                    "url":"/strange-skies?page=2019-04-01-098"
+                },
+                {
+                    "date":"2019-04-05 00:00:00",
+                    "page":"099",
+                    "url":"/strange-skies?page=2019-04-05-099"
+                },
+                {
+                    "date":"2019-04-09 00:00:00",
+                    "page":"100",
+                    "url":"/strange-skies?page=2019-04-09-100"
+                },
+                {
+                    "date":"2019-04-13 00:00:00",
+                    "page":"101",
+                    "url":"/strange-skies?page=2019-04-13-101"
+                },
+                {
+                    "date":"2019-04-17 00:00:00",
+                    "page":"102",
+                    "url":"/strange-skies?page=2019-04-17-102"
+                },
+                {
+                    "date":"2019-04-21 00:00:00",
+                    "page":"103",
+                    "url":"/strange-skies?page=2019-04-21-103"
+                },
+                {
+                    "date":"2019-04-25 00:00:00",
+                    "page":"104",
+                    "url":"/strange-skies?page=2019-04-25-104"
+                },
+                {
+                    "date":"2019-04-29 00:00:00",
+                    "page":"105",
+                    "url":"/strange-skies?page=2019-04-29-105"
+                },
+                {
+                    "date":"2019-05-03 00:00:00",
+                    "page":"106",
+                    "url":"/strange-skies?page=2019-05-03-106"
+                },
+                {
+                    "date":"2019-05-07 00:00:00",
+                    "page":"107",
+                    "url":"/strange-skies?page=2019-05-07-107"
+                },
+                {
+                    "date":"2019-05-11 00:00:00",
+                    "page":"108",
+                    "url":"/strange-skies?page=2019-05-11-108"
+                },
+                {
+                    "date":"2019-05-15 00:00:00",
+                    "page":"109",
+                    "url":"/strange-skies?page=2019-05-15-109"
+                },
+                {
+                    "date":"2019-05-19 00:00:00",
+                    "page":"110",
+                    "url":"/strange-skies?page=2019-05-19-110"
+                },
+                {
+                    "date":"2019-05-23 00:00:00",
+                    "page":"111",
+                    "url":"/strange-skies?page=2019-05-23-111"
+                },
+                {
+                    "date":"2019-05-27 00:00:00",
+                    "page":"112",
+                    "url":"/strange-skies?page=2019-05-27-112"
+                },
+                {
+                    "date":"2019-05-31 00:00:00",
+                    "page":"113",
+                    "url":"/strange-skies?page=2019-05-31-113"
+                },
+                {
+                    "date":"2019-06-04 00:00:00",
+                    "page":"114",
+                    "url":"/strange-skies?page=2019-06-04-114"
+                },
+                {
+                    "date":"2019-06-08 00:00:00",
+                    "page":"115",
+                    "url":"/strange-skies?page=2019-06-08-115"
+                },
+                {
+                    "date":"2019-06-12 00:00:00",
+                    "page":"116",
+                    "url":"/strange-skies?page=2019-06-12-116"
+                },
+                {
+                    "date":"2019-06-16 00:00:00",
+                    "page":"117",
+                    "url":"/strange-skies?page=2019-06-16-117"
+                },
+                {
+                    "date":"2019-06-20 00:00:00",
+                    "page":"118",
+                    "url":"/strange-skies?page=2019-06-20-118"
+                },
+                {
+                    "date":"2019-06-24 00:00:00",
+                    "page":"119",
+                    "url":"/strange-skies?page=2019-06-24-119"
+                },
+                {
+                    "date":"2019-06-28 00:00:00",
+                    "page":"120",
+                    "url":"/strange-skies?page=2019-06-28-120"
+                },
+                {
+                    "date":"2019-07-02 00:00:00",
+                    "page":"121",
+                    "url":"/strange-skies?page=2019-07-02-121"
+                },
+                {
+                    "date":"2019-07-06 00:00:00",
+                    "page":"122",
+                    "url":"/strange-skies?page=2019-07-06-122"
+                },
+                {
+                    "date":"2019-07-10 00:00:00",
+                    "page":"123",
+                    "url":"/strange-skies?page=2019-07-10-123"
+                },
+                {
+                    "date":"2019-07-14 00:00:00",
+                    "page":"124",
+                    "url":"/strange-skies?page=2019-07-14-124"
+                },
+                {
+                    "date":"2019-07-18 00:00:00",
+                    "page":"125",
+                    "url":"/strange-skies?page=2019-07-18-125"
+                },
+                {
+                    "date":"2019-07-22 00:00:00",
+                    "page":"126",
+                    "url":"/strange-skies?page=2019-07-22-126"
+                },
+                {
+                    "date":"2019-07-26 00:00:00",
+                    "page":"127",
+                    "url":"/strange-skies?page=2019-07-26-127"
+                },
+                {
+                    "date":"2019-07-30 00:00:00",
+                    "page":"128",
+                    "url":"/strange-skies?page=2019-07-30-128"
+                },
+                {
+                    "date":"2019-08-03 00:00:00",
+                    "page":"129",
+                    "url":"/strange-skies?page=2019-08-03-129"
+                },
+                {
+                    "date":"2019-08-07 00:00:00",
+                    "page":"130",
+                    "url":"/strange-skies?page=2019-08-07-130"
+                },
+                {
+                    "date":"2019-08-11 00:00:00",
+                    "page":"131",
+                    "url":"/strange-skies?page=2019-08-11-131"
+                },
+                {
+                    "date":"2019-08-15 00:00:00",
+                    "page":"132",
+                    "url":"/strange-skies?page=2019-08-15-132"
+                },
+                {
+                    "date":"2019-08-19 00:00:00",
+                    "page":"133",
+                    "url":"/strange-skies?page=2019-08-19-133"
+                },
+                {
+                    "date":"2019-08-23 00:00:00",
+                    "page":"134",
+                    "url":"/strange-skies?page=2019-08-23-134"
+                },
+                {
+                    "date":"2019-08-27 00:00:00",
+                    "page":"135",
+                    "url":"/strange-skies?page=2019-08-27-135"
+                },
+                {
+                    "date":"2019-08-31 00:00:00",
+                    "page":"136",
+                    "url":"/strange-skies?page=2019-08-31-136"
+                },
+                {
+                    "date":"2019-09-04 00:00:00",
+                    "page":"137",
+                    "url":"/strange-skies?page=2019-09-04-137"
+                },
+                {
+                    "date":"2019-09-08 00:00:00",
+                    "page":"138",
+                    "url":"/strange-skies?page=2019-09-08-138"
+                },
+                {
+                    "date":"2019-09-12 00:00:00",
+                    "page":"139",
+                    "url":"/strange-skies?page=2019-09-12-139"
+                },
+                {
+                    "date":"2019-09-16 00:00:00",
+                    "page":"140",
+                    "url":"/strange-skies?page=2019-09-16-140"
+                },
+                {
+                    "date":"2019-09-20 00:00:00",
+                    "page":"141",
+                    "url":"/strange-skies?page=2019-09-20-141"
+                },
+                {
+                    "date":"2019-09-24 00:00:00",
+                    "page":"142",
+                    "url":"/strange-skies?page=2019-09-24-142"
+                },
+                {
+                    "date":"2019-09-28 00:00:00",
+                    "page":"143",
+                    "url":"/strange-skies?page=2019-09-28-143"
+                },
+                {
+                    "date":"2019-10-02 00:00:00",
+                    "page":"144",
+                    "url":"/strange-skies?page=2019-10-02-144"
+                },
+                {
+                    "date":"2019-10-06 00:00:00",
+                    "page":"145",
+                    "url":"/strange-skies?page=2019-10-06-145"
+                },
+                {
+                    "date":"2019-10-10 00:00:00",
+                    "page":"146",
+                    "url":"/strange-skies?page=2019-10-10-146"
+                },
+                {
+                    "date":"2019-10-14 00:00:00",
+                    "page":"147",
+                    "url":"/strange-skies?page=2019-10-14-147"
+                },
+                {
+                    "date":"2019-10-18 00:00:00",
+                    "page":"148",
+                    "url":"/strange-skies?page=2019-10-18-148"
+                },
+                {
+                    "date":"2019-10-22 00:00:00",
+                    "page":"149",
+                    "url":"/strange-skies?page=2019-10-22-149"
+                },
+                {
+                    "date":"2019-10-26 00:00:00",
+                    "page":"150",
+                    "url":"/strange-skies?page=2019-10-26-150"
+                },
+                {
+                    "date":"2019-10-30 00:00:00",
+                    "page":"151",
+                    "url":"/strange-skies?page=2019-10-30-151"
+                },
+                {
+                    "date":"2019-11-03 00:00:00",
+                    "page":"152",
+                    "url":"/strange-skies?page=2019-11-03-152"
+                },
+                {
+                    "date":"2019-11-07 00:00:00",
+                    "page":"153",
+                    "url":"/strange-skies?page=2019-11-07-153"
+                },
+                {
+                    "date":"2019-11-11 00:00:00",
+                    "page":"154",
+                    "url":"/strange-skies?page=2019-11-11-154"
+                },
+                {
+                    "date":"2019-11-15 00:00:00",
+                    "page":"155",
+                    "url":"/strange-skies?page=2019-11-15-155"
+                },
+                {
+                    "date":"2019-11-19 00:00:00",
+                    "page":"156",
+                    "url":"/strange-skies?page=2019-11-19-156"
+                },
+                {
+                    "date":"2019-11-23 00:00:00",
+                    "page":"157",
+                    "url":"/strange-skies?page=2019-11-23-157"
+                },
+                {
+                    "date":"2019-11-27 00:00:00",
+                    "page":"158",
+                    "url":"/strange-skies?page=2019-11-27-158"
+                },
+                {
+                    "date":"2019-12-01 00:00:00",
+                    "page":"159",
+                    "url":"/strange-skies?page=2019-12-01-159"
+                },
+                {
+                    "date":"2019-12-05 00:00:00",
+                    "page":"160",
+                    "url":"/strange-skies?page=2019-12-05-160"
+                },
+                {
+                    "date":"2019-12-09 00:00:00",
+                    "page":"161",
+                    "url":"/strange-skies?page=2019-12-09-161"
+                },
+                {
+                    "date":"2019-12-13 00:00:00",
+                    "page":"162",
+                    "url":"/strange-skies?page=2019-12-13-162"
+                },
+                {
+                    "date":"2019-12-17 00:00:00",
+                    "page":"163",
+                    "url":"/strange-skies?page=2019-12-17-163"
+                },
+                {
+                    "date":"2019-12-21 00:00:00",
+                    "page":"164",
+                    "url":"/strange-skies?page=2019-12-21-164"
+                },
+                {
+                    "date":"2019-12-25 00:00:00",
+                    "page":"165",
+                    "url":"/strange-skies?page=2019-12-25-165"
+                }
+            ],
+            "publish_start":"2018-03-05 00:00:00",
+            "slug":"strange-skies"
+        },
+        {
+            "final_message":"",
+            "messages":[
+                "An all-ages supernatural mystery set it rural Bangladesh. Here's the latest page of Aya Begum. More at",
+                "A twelve-year old paranormal investigator in rural Bangladesh. New page every week. More at",
+                "Aya Begum is now a webcomic! Read the all-ages supernatural mystery at",
+                "Here's the latest page of Aya Begum. The paranormal mystery set in Bangladesh. Read more at",
+                "A new page of Aya Begum every week! Here's the latest page. More at: ",
+                "Thought you might like to know that a new page of the webcomic Aya Begum is up. See more at",
+                "Have you been following Aya Begum? Because here is the latest page. More at",
+                "Aya Begum is a twelve year old paranormal investigator, living in rural Bangladesh. View more pages at",
+                "Here's the latest page of Aya Begum. You can read the story so far here",
+                "Aya Begum - Book 1. The latest page of the webcomic is now available at",
+                "Thought you might like to know that the latest page of Aya is available online at",
+                "Something is haunting a forest in a Bangladeshi village. Read more at",
+                "It's that time again. Here's the latest page of Aya. More at",
+                "Aya's adventure is just beginning. Read more at",
+                "Aya is an all-ages comic and I'm releasing the whole book, page by page. Here's the latest. More at",
+                "Here's the latest page of the all-ages webcomic: Aya Begum. More at",
+                "And here's another page of Aya, the all ages comic set in Bangladesh. Read more at",
+                "Aya Begum - Paranormal Investigator. Here's the latest page. Check out the story far at"
+            ],
+            "name":"Aya Begum - Book 1",
+            "pages":57,
+            "publish_freq":8,
+            "publish_info":[
+                {
+                    "date":"2018-06-06 00:00:00",
+                    "page":"001",
+                    "url":"/aya-book-1?page=2018-06-06-001"
+                },
+                {
+                    "date":"2018-06-14 00:00:00",
+                    "page":"002",
+                    "url":"/aya-book-1?page=2018-06-14-002"
+                },
+                {
+                    "date":"2018-06-22 00:00:00",
+                    "page":"003",
+                    "url":"/aya-book-1?page=2018-06-22-003"
+                },
+                {
+                    "date":"2018-06-30 00:00:00",
+                    "page":"004",
+                    "url":"/aya-book-1?page=2018-06-30-004"
+                },
+                {
+                    "date":"2018-07-08 00:00:00",
+                    "page":"005",
+                    "url":"/aya-book-1?page=2018-07-08-005"
+                },
+                {
+                    "date":"2018-07-16 00:00:00",
+                    "page":"006",
+                    "url":"/aya-book-1?page=2018-07-16-006"
+                },
+                {
+                    "date":"2018-07-24 00:00:00",
+                    "page":"007",
+                    "url":"/aya-book-1?page=2018-07-24-007"
+                },
+                {
+                    "date":"2018-08-01 00:00:00",
+                    "page":"008",
+                    "url":"/aya-book-1?page=2018-08-01-008"
+                },
+                {
+                    "date":"2018-08-09 00:00:00",
+                    "page":"009",
+                    "url":"/aya-book-1?page=2018-08-09-009"
+                },
+                {
+                    "date":"2018-08-17 00:00:00",
+                    "page":"010",
+                    "url":"/aya-book-1?page=2018-08-17-010"
+                },
+                {
+                    "date":"2018-08-25 00:00:00",
+                    "page":"011",
+                    "url":"/aya-book-1?page=2018-08-25-011"
+                },
+                {
+                    "date":"2018-09-02 00:00:00",
+                    "page":"012",
+                    "url":"/aya-book-1?page=2018-09-02-012"
+                },
+                {
+                    "date":"2018-09-10 00:00:00",
+                    "page":"013",
+                    "url":"/aya-book-1?page=2018-09-10-013"
+                },
+                {
+                    "date":"2018-09-18 00:00:00",
+                    "page":"014",
+                    "url":"/aya-book-1?page=2018-09-18-014"
+                },
+                {
+                    "date":"2018-09-26 00:00:00",
+                    "page":"015",
+                    "url":"/aya-book-1?page=2018-09-26-015"
+                },
+                {
+                    "date":"2018-10-04 00:00:00",
+                    "page":"016",
+                    "url":"/aya-book-1?page=2018-10-04-016"
+                },
+                {
+                    "date":"2018-10-12 00:00:00",
+                    "page":"017",
+                    "url":"/aya-book-1?page=2018-10-12-017"
+                },
+                {
+                    "date":"2018-10-20 00:00:00",
+                    "page":"018",
+                    "url":"/aya-book-1?page=2018-10-20-018"
+                },
+                {
+                    "date":"2018-10-28 00:00:00",
+                    "page":"019",
+                    "url":"/aya-book-1?page=2018-10-28-019"
+                },
+                {
+                    "date":"2018-11-05 00:00:00",
+                    "page":"020",
+                    "url":"/aya-book-1?page=2018-11-05-020"
+                },
+                {
+                    "date":"2018-11-13 00:00:00",
+                    "page":"021",
+                    "url":"/aya-book-1?page=2018-11-13-021"
+                },
+                {
+                    "date":"2018-11-21 00:00:00",
+                    "page":"022",
+                    "url":"/aya-book-1?page=2018-11-21-022"
+                },
+                {
+                    "date":"2018-11-29 00:00:00",
+                    "page":"023",
+                    "url":"/aya-book-1?page=2018-11-29-023"
+                },
+                {
+                    "date":"2018-12-07 00:00:00",
+                    "page":"024",
+                    "url":"/aya-book-1?page=2018-12-07-024"
+                },
+                {
+                    "date":"2018-12-15 00:00:00",
+                    "page":"025",
+                    "url":"/aya-book-1?page=2018-12-15-025"
+                },
+                {
+                    "date":"2018-12-23 00:00:00",
+                    "page":"026",
+                    "url":"/aya-book-1?page=2018-12-23-026"
+                },
+                {
+                    "date":"2018-12-31 00:00:00",
+                    "page":"027",
+                    "url":"/aya-book-1?page=2018-12-31-027"
+                },
+                {
+                    "date":"2019-01-08 00:00:00",
+                    "page":"028",
+                    "url":"/aya-book-1?page=2019-01-08-028"
+                },
+                {
+                    "date":"2019-01-16 00:00:00",
+                    "page":"029",
+                    "url":"/aya-book-1?page=2019-01-16-029"
+                },
+                {
+                    "date":"2019-01-24 00:00:00",
+                    "page":"030",
+                    "url":"/aya-book-1?page=2019-01-24-030"
+                },
+                {
+                    "date":"2019-02-01 00:00:00",
+                    "page":"031",
+                    "url":"/aya-book-1?page=2019-02-01-031"
+                },
+                {
+                    "date":"2019-02-09 00:00:00",
+                    "page":"032",
+                    "url":"/aya-book-1?page=2019-02-09-032"
+                },
+                {
+                    "date":"2019-02-17 00:00:00",
+                    "page":"033",
+                    "url":"/aya-book-1?page=2019-02-17-033"
+                },
+                {
+                    "date":"2019-02-25 00:00:00",
+                    "page":"034",
+                    "url":"/aya-book-1?page=2019-02-25-034"
+                },
+                {
+                    "date":"2019-03-05 00:00:00",
+                    "page":"035",
+                    "url":"/aya-book-1?page=2019-03-05-035"
+                },
+                {
+                    "date":"2019-03-13 00:00:00",
+                    "page":"036",
+                    "url":"/aya-book-1?page=2019-03-13-036"
+                },
+                {
+                    "date":"2019-03-21 00:00:00",
+                    "page":"037",
+                    "url":"/aya-book-1?page=2019-03-21-037"
+                },
+                {
+                    "date":"2019-03-29 00:00:00",
+                    "page":"038",
+                    "url":"/aya-book-1?page=2019-03-29-038"
+                },
+                {
+                    "date":"2019-04-06 00:00:00",
+                    "page":"039",
+                    "url":"/aya-book-1?page=2019-04-06-039"
+                },
+                {
+                    "date":"2019-04-14 00:00:00",
+                    "page":"040",
+                    "url":"/aya-book-1?page=2019-04-14-040"
+                },
+                {
+                    "date":"2019-04-22 00:00:00",
+                    "page":"041",
+                    "url":"/aya-book-1?page=2019-04-22-041"
+                },
+                {
+                    "date":"2019-04-30 00:00:00",
+                    "page":"042",
+                    "url":"/aya-book-1?page=2019-04-30-042"
+                },
+                {
+                    "date":"2019-05-08 00:00:00",
+                    "page":"043",
+                    "url":"/aya-book-1?page=2019-05-08-043"
+                },
+                {
+                    "date":"2019-05-16 00:00:00",
+                    "page":"044",
+                    "url":"/aya-book-1?page=2019-05-16-044"
+                },
+                {
+                    "date":"2019-05-24 00:00:00",
+                    "page":"045",
+                    "url":"/aya-book-1?page=2019-05-24-045"
+                },
+                {
+                    "date":"2019-06-01 00:00:00",
+                    "page":"046",
+                    "url":"/aya-book-1?page=2019-06-01-046"
+                },
+                {
+                    "date":"2019-06-09 00:00:00",
+                    "page":"047",
+                    "url":"/aya-book-1?page=2019-06-09-047"
+                },
+                {
+                    "date":"2019-06-17 00:00:00",
+                    "page":"048",
+                    "url":"/aya-book-1?page=2019-06-17-048"
+                },
+                {
+                    "date":"2019-06-25 00:00:00",
+                    "page":"049",
+                    "url":"/aya-book-1?page=2019-06-25-049"
+                },
+                {
+                    "date":"2019-07-03 00:00:00",
+                    "page":"050",
+                    "url":"/aya-book-1?page=2019-07-03-050"
+                },
+                {
+                    "date":"2019-07-11 00:00:00",
+                    "page":"051",
+                    "url":"/aya-book-1?page=2019-07-11-051"
+                },
+                {
+                    "date":"2019-07-19 00:00:00",
+                    "page":"052",
+                    "url":"/aya-book-1?page=2019-07-19-052"
+                },
+                {
+                    "date":"2019-07-27 00:00:00",
+                    "page":"053",
+                    "url":"/aya-book-1?page=2019-07-27-053"
+                },
+                {
+                    "date":"2019-08-04 00:00:00",
+                    "page":"054",
+                    "url":"/aya-book-1?page=2019-08-04-054"
+                },
+                {
+                    "date":"2019-08-12 00:00:00",
+                    "page":"055",
+                    "url":"/aya-book-1?page=2019-08-12-055"
+                },
+                {
+                    "date":"2019-08-20 00:00:00",
+                    "page":"056",
+                    "url":"/aya-book-1?page=2019-08-20-056"
+                },
+                {
+                    "date":"2019-08-28 00:00:00",
+                    "page":"057",
+                    "url":"/aya-book-1?page=2019-08-28-057"
+                }
+            ],
+            "publish_start":"2018-05-29 00:00:00",
+            "slug":"aya-book-1"
+        },
+        {
+            "final_message":"",
+            "messages":[],
+            "name":"Aya Begum - Book 2",
+            "pages":57,
+            "publish_freq":7,
+            "publish_info":[
+                {
+                    "date":"2018-10-08 00:00:00",
+                    "page":"001",
+                    "url":"/aya-book-2?page=2018-10-08-001"
+                },
+                {
+                    "date":"2018-10-15 00:00:00",
+                    "page":"002",
+                    "url":"/aya-book-2?page=2018-10-15-002"
+                },
+                {
+                    "date":"2018-10-22 00:00:00",
+                    "page":"003",
+                    "url":"/aya-book-2?page=2018-10-22-003"
+                },
+                {
+                    "date":"2018-10-29 00:00:00",
+                    "page":"004",
+                    "url":"/aya-book-2?page=2018-10-29-004"
+                },
+                {
+                    "date":"2018-11-05 00:00:00",
+                    "page":"005",
+                    "url":"/aya-book-2?page=2018-11-05-005"
+                },
+                {
+                    "date":"2018-11-12 00:00:00",
+                    "page":"006",
+                    "url":"/aya-book-2?page=2018-11-12-006"
+                },
+                {
+                    "date":"2018-11-19 00:00:00",
+                    "page":"007",
+                    "url":"/aya-book-2?page=2018-11-19-007"
+                },
+                {
+                    "date":"2018-11-26 00:00:00",
+                    "page":"008",
+                    "url":"/aya-book-2?page=2018-11-26-008"
+                },
+                {
+                    "date":"2018-12-03 00:00:00",
+                    "page":"009",
+                    "url":"/aya-book-2?page=2018-12-03-009"
+                },
+                {
+                    "date":"2018-12-10 00:00:00",
+                    "page":"010",
+                    "url":"/aya-book-2?page=2018-12-10-010"
+                },
+                {
+                    "date":"2018-12-17 00:00:00",
+                    "page":"011",
+                    "url":"/aya-book-2?page=2018-12-17-011"
+                },
+                {
+                    "date":"2018-12-24 00:00:00",
+                    "page":"012",
+                    "url":"/aya-book-2?page=2018-12-24-012"
+                },
+                {
+                    "date":"2018-12-31 00:00:00",
+                    "page":"013",
+                    "url":"/aya-book-2?page=2018-12-31-013"
+                },
+                {
+                    "date":"2019-01-07 00:00:00",
+                    "page":"014",
+                    "url":"/aya-book-2?page=2019-01-07-014"
+                },
+                {
+                    "date":"2019-01-14 00:00:00",
+                    "page":"015",
+                    "url":"/aya-book-2?page=2019-01-14-015"
+                },
+                {
+                    "date":"2019-01-21 00:00:00",
+                    "page":"016",
+                    "url":"/aya-book-2?page=2019-01-21-016"
+                },
+                {
+                    "date":"2019-01-28 00:00:00",
+                    "page":"017",
+                    "url":"/aya-book-2?page=2019-01-28-017"
+                },
+                {
+                    "date":"2019-02-04 00:00:00",
+                    "page":"018",
+                    "url":"/aya-book-2?page=2019-02-04-018"
+                },
+                {
+                    "date":"2019-02-11 00:00:00",
+                    "page":"019",
+                    "url":"/aya-book-2?page=2019-02-11-019"
+                },
+                {
+                    "date":"2019-02-18 00:00:00",
+                    "page":"020",
+                    "url":"/aya-book-2?page=2019-02-18-020"
+                },
+                {
+                    "date":"2019-02-25 00:00:00",
+                    "page":"021",
+                    "url":"/aya-book-2?page=2019-02-25-021"
+                },
+                {
+                    "date":"2019-03-04 00:00:00",
+                    "page":"022",
+                    "url":"/aya-book-2?page=2019-03-04-022"
+                },
+                {
+                    "date":"2019-03-11 00:00:00",
+                    "page":"023",
+                    "url":"/aya-book-2?page=2019-03-11-023"
+                },
+                {
+                    "date":"2019-03-18 00:00:00",
+                    "page":"024",
+                    "url":"/aya-book-2?page=2019-03-18-024"
+                },
+                {
+                    "date":"2019-03-25 00:00:00",
+                    "page":"025",
+                    "url":"/aya-book-2?page=2019-03-25-025"
+                },
+                {
+                    "date":"2019-04-01 00:00:00",
+                    "page":"026",
+                    "url":"/aya-book-2?page=2019-04-01-026"
+                },
+                {
+                    "date":"2019-04-08 00:00:00",
+                    "page":"027",
+                    "url":"/aya-book-2?page=2019-04-08-027"
+                },
+                {
+                    "date":"2019-04-15 00:00:00",
+                    "page":"028",
+                    "url":"/aya-book-2?page=2019-04-15-028"
+                },
+                {
+                    "date":"2019-04-22 00:00:00",
+                    "page":"029",
+                    "url":"/aya-book-2?page=2019-04-22-029"
+                },
+                {
+                    "date":"2019-04-29 00:00:00",
+                    "page":"030",
+                    "url":"/aya-book-2?page=2019-04-29-030"
+                },
+                {
+                    "date":"2019-05-06 00:00:00",
+                    "page":"031",
+                    "url":"/aya-book-2?page=2019-05-06-031"
+                },
+                {
+                    "date":"2019-05-13 00:00:00",
+                    "page":"032",
+                    "url":"/aya-book-2?page=2019-05-13-032"
+                },
+                {
+                    "date":"2019-05-20 00:00:00",
+                    "page":"033",
+                    "url":"/aya-book-2?page=2019-05-20-033"
+                },
+                {
+                    "date":"2019-05-27 00:00:00",
+                    "page":"034",
+                    "url":"/aya-book-2?page=2019-05-27-034"
+                },
+                {
+                    "date":"2019-06-03 00:00:00",
+                    "page":"035",
+                    "url":"/aya-book-2?page=2019-06-03-035"
+                },
+                {
+                    "date":"2019-06-10 00:00:00",
+                    "page":"036",
+                    "url":"/aya-book-2?page=2019-06-10-036"
+                },
+                {
+                    "date":"2019-06-17 00:00:00",
+                    "page":"037",
+                    "url":"/aya-book-2?page=2019-06-17-037"
+                },
+                {
+                    "date":"2019-06-24 00:00:00",
+                    "page":"038",
+                    "url":"/aya-book-2?page=2019-06-24-038"
+                },
+                {
+                    "date":"2019-07-01 00:00:00",
+                    "page":"039",
+                    "url":"/aya-book-2?page=2019-07-01-039"
+                },
+                {
+                    "date":"2019-07-08 00:00:00",
+                    "page":"040",
+                    "url":"/aya-book-2?page=2019-07-08-040"
+                },
+                {
+                    "date":"2019-07-15 00:00:00",
+                    "page":"041",
+                    "url":"/aya-book-2?page=2019-07-15-041"
+                },
+                {
+                    "date":"2019-07-22 00:00:00",
+                    "page":"042",
+                    "url":"/aya-book-2?page=2019-07-22-042"
+                },
+                {
+                    "date":"2019-07-29 00:00:00",
+                    "page":"043",
+                    "url":"/aya-book-2?page=2019-07-29-043"
+                },
+                {
+                    "date":"2019-08-05 00:00:00",
+                    "page":"044",
+                    "url":"/aya-book-2?page=2019-08-05-044"
+                },
+                {
+                    "date":"2019-08-12 00:00:00",
+                    "page":"045",
+                    "url":"/aya-book-2?page=2019-08-12-045"
+                },
+                {
+                    "date":"2019-08-19 00:00:00",
+                    "page":"046",
+                    "url":"/aya-book-2?page=2019-08-19-046"
+                },
+                {
+                    "date":"2019-08-26 00:00:00",
+                    "page":"047",
+                    "url":"/aya-book-2?page=2019-08-26-047"
+                },
+                {
+                    "date":"2019-09-02 00:00:00",
+                    "page":"048",
+                    "url":"/aya-book-2?page=2019-09-02-048"
+                },
+                {
+                    "date":"2019-09-09 00:00:00",
+                    "page":"049",
+                    "url":"/aya-book-2?page=2019-09-09-049"
+                },
+                {
+                    "date":"2019-09-16 00:00:00",
+                    "page":"050",
+                    "url":"/aya-book-2?page=2019-09-16-050"
+                },
+                {
+                    "date":"2019-09-23 00:00:00",
+                    "page":"051",
+                    "url":"/aya-book-2?page=2019-09-23-051"
+                },
+                {
+                    "date":"2019-09-30 00:00:00",
+                    "page":"052",
+                    "url":"/aya-book-2?page=2019-09-30-052"
+                },
+                {
+                    "date":"2019-10-07 00:00:00",
+                    "page":"053",
+                    "url":"/aya-book-2?page=2019-10-07-053"
+                },
+                {
+                    "date":"2019-10-14 00:00:00",
+                    "page":"054",
+                    "url":"/aya-book-2?page=2019-10-14-054"
+                },
+                {
+                    "date":"2019-10-21 00:00:00",
+                    "page":"055",
+                    "url":"/aya-book-2?page=2019-10-21-055"
+                },
+                {
+                    "date":"2019-10-28 00:00:00",
+                    "page":"056",
+                    "url":"/aya-book-2?page=2019-10-28-056"
+                },
+                {
+                    "date":"2019-11-04 00:00:00",
+                    "page":"057",
+                    "url":"/aya-book-2?page=2019-11-04-057"
+                }
+            ],
+            "publish_start":"2018-10-01 00:00:00",
+            "slug":"aya-book-2"
+        },
+        {
+            "final_message":"",
+            "messages":[],
+            "name":"Nightingale Protocol",
+            "pages":57,
+            "publish_freq":7,
+            "publish_info":[
+                {
+                    "date":"2018-06-17 00:00:00",
+                    "page":"001",
+                    "url":"/nightingale-protocol-1?page=2018-06-17-001"
+                },
+                {
+                    "date":"2018-06-24 00:00:00",
+                    "page":"002",
+                    "url":"/nightingale-protocol-1?page=2018-06-24-002"
+                },
+                {
+                    "date":"2018-07-01 00:00:00",
+                    "page":"003",
+                    "url":"/nightingale-protocol-1?page=2018-07-01-003"
+                },
+                {
+                    "date":"2018-07-08 00:00:00",
+                    "page":"004",
+                    "url":"/nightingale-protocol-1?page=2018-07-08-004"
+                },
+                {
+                    "date":"2018-07-15 00:00:00",
+                    "page":"005",
+                    "url":"/nightingale-protocol-1?page=2018-07-15-005"
+                },
+                {
+                    "date":"2018-07-22 00:00:00",
+                    "page":"006",
+                    "url":"/nightingale-protocol-1?page=2018-07-22-006"
+                },
+                {
+                    "date":"2018-07-29 00:00:00",
+                    "page":"007",
+                    "url":"/nightingale-protocol-1?page=2018-07-29-007"
+                },
+                {
+                    "date":"2018-08-05 00:00:00",
+                    "page":"008",
+                    "url":"/nightingale-protocol-1?page=2018-08-05-008"
+                },
+                {
+                    "date":"2018-08-12 00:00:00",
+                    "page":"009",
+                    "url":"/nightingale-protocol-1?page=2018-08-12-009"
+                },
+                {
+                    "date":"2018-08-19 00:00:00",
+                    "page":"010",
+                    "url":"/nightingale-protocol-1?page=2018-08-19-010"
+                },
+                {
+                    "date":"2018-08-26 00:00:00",
+                    "page":"011",
+                    "url":"/nightingale-protocol-1?page=2018-08-26-011"
+                },
+                {
+                    "date":"2018-09-02 00:00:00",
+                    "page":"012",
+                    "url":"/nightingale-protocol-1?page=2018-09-02-012"
+                },
+                {
+                    "date":"2018-09-09 00:00:00",
+                    "page":"013",
+                    "url":"/nightingale-protocol-1?page=2018-09-09-013"
+                },
+                {
+                    "date":"2018-09-16 00:00:00",
+                    "page":"014",
+                    "url":"/nightingale-protocol-1?page=2018-09-16-014"
+                },
+                {
+                    "date":"2018-09-23 00:00:00",
+                    "page":"015",
+                    "url":"/nightingale-protocol-1?page=2018-09-23-015"
+                },
+                {
+                    "date":"2018-09-30 00:00:00",
+                    "page":"016",
+                    "url":"/nightingale-protocol-1?page=2018-09-30-016"
+                },
+                {
+                    "date":"2018-10-07 00:00:00",
+                    "page":"017",
+                    "url":"/nightingale-protocol-1?page=2018-10-07-017"
+                },
+                {
+                    "date":"2018-10-14 00:00:00",
+                    "page":"018",
+                    "url":"/nightingale-protocol-1?page=2018-10-14-018"
+                },
+                {
+                    "date":"2018-10-21 00:00:00",
+                    "page":"019",
+                    "url":"/nightingale-protocol-1?page=2018-10-21-019"
+                },
+                {
+                    "date":"2018-10-28 00:00:00",
+                    "page":"020",
+                    "url":"/nightingale-protocol-1?page=2018-10-28-020"
+                },
+                {
+                    "date":"2018-11-04 00:00:00",
+                    "page":"021",
+                    "url":"/nightingale-protocol-1?page=2018-11-04-021"
+                },
+                {
+                    "date":"2018-11-11 00:00:00",
+                    "page":"022",
+                    "url":"/nightingale-protocol-1?page=2018-11-11-022"
+                },
+                {
+                    "date":"2018-11-18 00:00:00",
+                    "page":"023",
+                    "url":"/nightingale-protocol-1?page=2018-11-18-023"
+                },
+                {
+                    "date":"2018-11-25 00:00:00",
+                    "page":"024",
+                    "url":"/nightingale-protocol-1?page=2018-11-25-024"
+                },
+                {
+                    "date":"2018-12-02 00:00:00",
+                    "page":"025",
+                    "url":"/nightingale-protocol-1?page=2018-12-02-025"
+                },
+                {
+                    "date":"2018-12-09 00:00:00",
+                    "page":"026",
+                    "url":"/nightingale-protocol-1?page=2018-12-09-026"
+                },
+                {
+                    "date":"2018-12-16 00:00:00",
+                    "page":"027",
+                    "url":"/nightingale-protocol-1?page=2018-12-16-027"
+                },
+                {
+                    "date":"2018-12-23 00:00:00",
+                    "page":"028",
+                    "url":"/nightingale-protocol-1?page=2018-12-23-028"
+                },
+                {
+                    "date":"2018-12-30 00:00:00",
+                    "page":"029",
+                    "url":"/nightingale-protocol-1?page=2018-12-30-029"
+                },
+                {
+                    "date":"2019-01-06 00:00:00",
+                    "page":"030",
+                    "url":"/nightingale-protocol-1?page=2019-01-06-030"
+                },
+                {
+                    "date":"2019-01-13 00:00:00",
+                    "page":"031",
+                    "url":"/nightingale-protocol-1?page=2019-01-13-031"
+                },
+                {
+                    "date":"2019-01-20 00:00:00",
+                    "page":"032",
+                    "url":"/nightingale-protocol-1?page=2019-01-20-032"
+                },
+                {
+                    "date":"2019-01-27 00:00:00",
+                    "page":"033",
+                    "url":"/nightingale-protocol-1?page=2019-01-27-033"
+                },
+                {
+                    "date":"2019-02-03 00:00:00",
+                    "page":"034",
+                    "url":"/nightingale-protocol-1?page=2019-02-03-034"
+                },
+                {
+                    "date":"2019-02-10 00:00:00",
+                    "page":"035",
+                    "url":"/nightingale-protocol-1?page=2019-02-10-035"
+                },
+                {
+                    "date":"2019-02-17 00:00:00",
+                    "page":"036",
+                    "url":"/nightingale-protocol-1?page=2019-02-17-036"
+                },
+                {
+                    "date":"2019-02-24 00:00:00",
+                    "page":"037",
+                    "url":"/nightingale-protocol-1?page=2019-02-24-037"
+                },
+                {
+                    "date":"2019-03-03 00:00:00",
+                    "page":"038",
+                    "url":"/nightingale-protocol-1?page=2019-03-03-038"
+                },
+                {
+                    "date":"2019-03-10 00:00:00",
+                    "page":"039",
+                    "url":"/nightingale-protocol-1?page=2019-03-10-039"
+                },
+                {
+                    "date":"2019-03-17 00:00:00",
+                    "page":"040",
+                    "url":"/nightingale-protocol-1?page=2019-03-17-040"
+                },
+                {
+                    "date":"2019-03-24 00:00:00",
+                    "page":"041",
+                    "url":"/nightingale-protocol-1?page=2019-03-24-041"
+                },
+                {
+                    "date":"2019-03-31 00:00:00",
+                    "page":"042",
+                    "url":"/nightingale-protocol-1?page=2019-03-31-042"
+                },
+                {
+                    "date":"2019-04-07 00:00:00",
+                    "page":"043",
+                    "url":"/nightingale-protocol-1?page=2019-04-07-043"
+                },
+                {
+                    "date":"2019-04-14 00:00:00",
+                    "page":"044",
+                    "url":"/nightingale-protocol-1?page=2019-04-14-044"
+                },
+                {
+                    "date":"2019-04-21 00:00:00",
+                    "page":"045",
+                    "url":"/nightingale-protocol-1?page=2019-04-21-045"
+                },
+                {
+                    "date":"2019-04-28 00:00:00",
+                    "page":"046",
+                    "url":"/nightingale-protocol-1?page=2019-04-28-046"
+                },
+                {
+                    "date":"2019-05-05 00:00:00",
+                    "page":"047",
+                    "url":"/nightingale-protocol-1?page=2019-05-05-047"
+                },
+                {
+                    "date":"2019-05-12 00:00:00",
+                    "page":"048",
+                    "url":"/nightingale-protocol-1?page=2019-05-12-048"
+                },
+                {
+                    "date":"2019-05-19 00:00:00",
+                    "page":"049",
+                    "url":"/nightingale-protocol-1?page=2019-05-19-049"
+                },
+                {
+                    "date":"2019-05-26 00:00:00",
+                    "page":"050",
+                    "url":"/nightingale-protocol-1?page=2019-05-26-050"
+                },
+                {
+                    "date":"2019-06-02 00:00:00",
+                    "page":"051",
+                    "url":"/nightingale-protocol-1?page=2019-06-02-051"
+                },
+                {
+                    "date":"2019-06-09 00:00:00",
+                    "page":"052",
+                    "url":"/nightingale-protocol-1?page=2019-06-09-052"
+                },
+                {
+                    "date":"2019-06-16 00:00:00",
+                    "page":"053",
+                    "url":"/nightingale-protocol-1?page=2019-06-16-053"
+                },
+                {
+                    "date":"2019-06-23 00:00:00",
+                    "page":"054",
+                    "url":"/nightingale-protocol-1?page=2019-06-23-054"
+                },
+                {
+                    "date":"2019-06-30 00:00:00",
+                    "page":"055",
+                    "url":"/nightingale-protocol-1?page=2019-06-30-055"
+                },
+                {
+                    "date":"2019-07-07 00:00:00",
+                    "page":"056",
+                    "url":"/nightingale-protocol-1?page=2019-07-07-056"
+                },
+                {
+                    "date":"2019-07-14 00:00:00",
+                    "page":"057",
+                    "url":"/nightingale-protocol-1?page=2019-07-14-057"
+                }
+            ],
+            "publish_start":"2018-06-10 00:00:00",
+            "slug":"nightingale-protocol-1"
+        },
+        {
+            "final_message":"",
+            "messages":[],
+            "name":"Mild Frenzy - Volume 1",
+            "pages":113,
+            "publish_freq":4,
+            "publish_info":[
+                {
+                    "date":"2018-01-30 00:00:00",
+                    "page":"001",
+                    "url":"/mild-frenzy-vol-1?page=2018-01-30-001"
+                },
+                {
+                    "date":"2018-02-03 00:00:00",
+                    "page":"002",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-03-002"
+                },
+                {
+                    "date":"2018-02-07 00:00:00",
+                    "page":"003",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-07-003"
+                },
+                {
+                    "date":"2018-02-11 00:00:00",
+                    "page":"004",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-11-004"
+                },
+                {
+                    "date":"2018-02-15 00:00:00",
+                    "page":"005",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-15-005"
+                },
+                {
+                    "date":"2018-02-19 00:00:00",
+                    "page":"006",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-19-006"
+                },
+                {
+                    "date":"2018-02-23 00:00:00",
+                    "page":"007",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-23-007"
+                },
+                {
+                    "date":"2018-02-27 00:00:00",
+                    "page":"008",
+                    "url":"/mild-frenzy-vol-1?page=2018-02-27-008"
+                },
+                {
+                    "date":"2018-03-03 00:00:00",
+                    "page":"009",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-03-009"
+                },
+                {
+                    "date":"2018-03-07 00:00:00",
+                    "page":"010",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-07-010"
+                },
+                {
+                    "date":"2018-03-11 00:00:00",
+                    "page":"011",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-11-011"
+                },
+                {
+                    "date":"2018-03-15 00:00:00",
+                    "page":"012",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-15-012"
+                },
+                {
+                    "date":"2018-03-19 00:00:00",
+                    "page":"013",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-19-013"
+                },
+                {
+                    "date":"2018-03-23 00:00:00",
+                    "page":"014",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-23-014"
+                },
+                {
+                    "date":"2018-03-27 00:00:00",
+                    "page":"015",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-27-015"
+                },
+                {
+                    "date":"2018-03-31 00:00:00",
+                    "page":"016",
+                    "url":"/mild-frenzy-vol-1?page=2018-03-31-016"
+                },
+                {
+                    "date":"2018-04-04 00:00:00",
+                    "page":"017",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-04-017"
+                },
+                {
+                    "date":"2018-04-08 00:00:00",
+                    "page":"018",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-08-018"
+                },
+                {
+                    "date":"2018-04-12 00:00:00",
+                    "page":"019",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-12-019"
+                },
+                {
+                    "date":"2018-04-16 00:00:00",
+                    "page":"020",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-16-020"
+                },
+                {
+                    "date":"2018-04-20 00:00:00",
+                    "page":"021",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-20-021"
+                },
+                {
+                    "date":"2018-04-24 00:00:00",
+                    "page":"022",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-24-022"
+                },
+                {
+                    "date":"2018-04-28 00:00:00",
+                    "page":"023",
+                    "url":"/mild-frenzy-vol-1?page=2018-04-28-023"
+                },
+                {
+                    "date":"2018-05-02 00:00:00",
+                    "page":"024",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-02-024"
+                },
+                {
+                    "date":"2018-05-06 00:00:00",
+                    "page":"025",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-06-025"
+                },
+                {
+                    "date":"2018-05-10 00:00:00",
+                    "page":"026",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-10-026"
+                },
+                {
+                    "date":"2018-05-14 00:00:00",
+                    "page":"027",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-14-027"
+                },
+                {
+                    "date":"2018-05-18 00:00:00",
+                    "page":"028",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-18-028"
+                },
+                {
+                    "date":"2018-05-22 00:00:00",
+                    "page":"029",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-22-029"
+                },
+                {
+                    "date":"2018-05-26 00:00:00",
+                    "page":"030",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-26-030"
+                },
+                {
+                    "date":"2018-05-30 00:00:00",
+                    "page":"031",
+                    "url":"/mild-frenzy-vol-1?page=2018-05-30-031"
+                },
+                {
+                    "date":"2018-06-03 00:00:00",
+                    "page":"032",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-03-032"
+                },
+                {
+                    "date":"2018-06-07 00:00:00",
+                    "page":"033",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-07-033"
+                },
+                {
+                    "date":"2018-06-11 00:00:00",
+                    "page":"034",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-11-034"
+                },
+                {
+                    "date":"2018-06-15 00:00:00",
+                    "page":"035",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-15-035"
+                },
+                {
+                    "date":"2018-06-19 00:00:00",
+                    "page":"036",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-19-036"
+                },
+                {
+                    "date":"2018-06-23 00:00:00",
+                    "page":"037",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-23-037"
+                },
+                {
+                    "date":"2018-06-27 00:00:00",
+                    "page":"038",
+                    "url":"/mild-frenzy-vol-1?page=2018-06-27-038"
+                },
+                {
+                    "date":"2018-07-01 00:00:00",
+                    "page":"039",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-01-039"
+                },
+                {
+                    "date":"2018-07-05 00:00:00",
+                    "page":"040",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-05-040"
+                },
+                {
+                    "date":"2018-07-09 00:00:00",
+                    "page":"041",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-09-041"
+                },
+                {
+                    "date":"2018-07-13 00:00:00",
+                    "page":"042",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-13-042"
+                },
+                {
+                    "date":"2018-07-17 00:00:00",
+                    "page":"043",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-17-043"
+                },
+                {
+                    "date":"2018-07-21 00:00:00",
+                    "page":"044",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-21-044"
+                },
+                {
+                    "date":"2018-07-25 00:00:00",
+                    "page":"045",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-25-045"
+                },
+                {
+                    "date":"2018-07-29 00:00:00",
+                    "page":"046",
+                    "url":"/mild-frenzy-vol-1?page=2018-07-29-046"
+                },
+                {
+                    "date":"2018-08-02 00:00:00",
+                    "page":"047",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-02-047"
+                },
+                {
+                    "date":"2018-08-06 00:00:00",
+                    "page":"048",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-06-048"
+                },
+                {
+                    "date":"2018-08-10 00:00:00",
+                    "page":"049",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-10-049"
+                },
+                {
+                    "date":"2018-08-14 00:00:00",
+                    "page":"050",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-14-050"
+                },
+                {
+                    "date":"2018-08-18 00:00:00",
+                    "page":"051",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-18-051"
+                },
+                {
+                    "date":"2018-08-22 00:00:00",
+                    "page":"052",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-22-052"
+                },
+                {
+                    "date":"2018-08-26 00:00:00",
+                    "page":"053",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-26-053"
+                },
+                {
+                    "date":"2018-08-30 00:00:00",
+                    "page":"054",
+                    "url":"/mild-frenzy-vol-1?page=2018-08-30-054"
+                },
+                {
+                    "date":"2018-09-03 00:00:00",
+                    "page":"055",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-03-055"
+                },
+                {
+                    "date":"2018-09-07 00:00:00",
+                    "page":"056",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-07-056"
+                },
+                {
+                    "date":"2018-09-11 00:00:00",
+                    "page":"057",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-11-057"
+                },
+                {
+                    "date":"2018-09-15 00:00:00",
+                    "page":"058",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-15-058"
+                },
+                {
+                    "date":"2018-09-19 00:00:00",
+                    "page":"059",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-19-059"
+                },
+                {
+                    "date":"2018-09-23 00:00:00",
+                    "page":"060",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-23-060"
+                },
+                {
+                    "date":"2018-09-27 00:00:00",
+                    "page":"061",
+                    "url":"/mild-frenzy-vol-1?page=2018-09-27-061"
+                },
+                {
+                    "date":"2018-10-01 00:00:00",
+                    "page":"062",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-01-062"
+                },
+                {
+                    "date":"2018-10-05 00:00:00",
+                    "page":"063",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-05-063"
+                },
+                {
+                    "date":"2018-10-09 00:00:00",
+                    "page":"064",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-09-064"
+                },
+                {
+                    "date":"2018-10-13 00:00:00",
+                    "page":"065",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-13-065"
+                },
+                {
+                    "date":"2018-10-17 00:00:00",
+                    "page":"066",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-17-066"
+                },
+                {
+                    "date":"2018-10-21 00:00:00",
+                    "page":"067",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-21-067"
+                },
+                {
+                    "date":"2018-10-25 00:00:00",
+                    "page":"068",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-25-068"
+                },
+                {
+                    "date":"2018-10-29 00:00:00",
+                    "page":"069",
+                    "url":"/mild-frenzy-vol-1?page=2018-10-29-069"
+                },
+                {
+                    "date":"2018-11-02 00:00:00",
+                    "page":"070",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-02-070"
+                },
+                {
+                    "date":"2018-11-06 00:00:00",
+                    "page":"071",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-06-071"
+                },
+                {
+                    "date":"2018-11-10 00:00:00",
+                    "page":"072",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-10-072"
+                },
+                {
+                    "date":"2018-11-14 00:00:00",
+                    "page":"073",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-14-073"
+                },
+                {
+                    "date":"2018-11-18 00:00:00",
+                    "page":"074",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-18-074"
+                },
+                {
+                    "date":"2018-11-22 00:00:00",
+                    "page":"075",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-22-075"
+                },
+                {
+                    "date":"2018-11-26 00:00:00",
+                    "page":"076",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-26-076"
+                },
+                {
+                    "date":"2018-11-30 00:00:00",
+                    "page":"077",
+                    "url":"/mild-frenzy-vol-1?page=2018-11-30-077"
+                },
+                {
+                    "date":"2018-12-04 00:00:00",
+                    "page":"078",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-04-078"
+                },
+                {
+                    "date":"2018-12-08 00:00:00",
+                    "page":"079",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-08-079"
+                },
+                {
+                    "date":"2018-12-12 00:00:00",
+                    "page":"080",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-12-080"
+                },
+                {
+                    "date":"2018-12-16 00:00:00",
+                    "page":"081",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-16-081"
+                },
+                {
+                    "date":"2018-12-20 00:00:00",
+                    "page":"082",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-20-082"
+                },
+                {
+                    "date":"2018-12-24 00:00:00",
+                    "page":"083",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-24-083"
+                },
+                {
+                    "date":"2018-12-28 00:00:00",
+                    "page":"084",
+                    "url":"/mild-frenzy-vol-1?page=2018-12-28-084"
+                },
+                {
+                    "date":"2019-01-01 00:00:00",
+                    "page":"085",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-01-085"
+                },
+                {
+                    "date":"2019-01-05 00:00:00",
+                    "page":"086",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-05-086"
+                },
+                {
+                    "date":"2019-01-09 00:00:00",
+                    "page":"087",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-09-087"
+                },
+                {
+                    "date":"2019-01-13 00:00:00",
+                    "page":"088",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-13-088"
+                },
+                {
+                    "date":"2019-01-17 00:00:00",
+                    "page":"089",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-17-089"
+                },
+                {
+                    "date":"2019-01-21 00:00:00",
+                    "page":"090",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-21-090"
+                },
+                {
+                    "date":"2019-01-25 00:00:00",
+                    "page":"091",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-25-091"
+                },
+                {
+                    "date":"2019-01-29 00:00:00",
+                    "page":"092",
+                    "url":"/mild-frenzy-vol-1?page=2019-01-29-092"
+                },
+                {
+                    "date":"2019-02-02 00:00:00",
+                    "page":"093",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-02-093"
+                },
+                {
+                    "date":"2019-02-06 00:00:00",
+                    "page":"094",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-06-094"
+                },
+                {
+                    "date":"2019-02-10 00:00:00",
+                    "page":"095",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-10-095"
+                },
+                {
+                    "date":"2019-02-14 00:00:00",
+                    "page":"096",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-14-096"
+                },
+                {
+                    "date":"2019-02-18 00:00:00",
+                    "page":"097",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-18-097"
+                },
+                {
+                    "date":"2019-02-22 00:00:00",
+                    "page":"098",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-22-098"
+                },
+                {
+                    "date":"2019-02-26 00:00:00",
+                    "page":"099",
+                    "url":"/mild-frenzy-vol-1?page=2019-02-26-099"
+                },
+                {
+                    "date":"2019-03-02 00:00:00",
+                    "page":"100",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-02-100"
+                },
+                {
+                    "date":"2019-03-06 00:00:00",
+                    "page":"101",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-06-101"
+                },
+                {
+                    "date":"2019-03-10 00:00:00",
+                    "page":"102",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-10-102"
+                },
+                {
+                    "date":"2019-03-14 00:00:00",
+                    "page":"103",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-14-103"
+                },
+                {
+                    "date":"2019-03-18 00:00:00",
+                    "page":"104",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-18-104"
+                },
+                {
+                    "date":"2019-03-22 00:00:00",
+                    "page":"105",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-22-105"
+                },
+                {
+                    "date":"2019-03-26 00:00:00",
+                    "page":"106",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-26-106"
+                },
+                {
+                    "date":"2019-03-30 00:00:00",
+                    "page":"107",
+                    "url":"/mild-frenzy-vol-1?page=2019-03-30-107"
+                },
+                {
+                    "date":"2019-04-03 00:00:00",
+                    "page":"108",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-03-108"
+                },
+                {
+                    "date":"2019-04-07 00:00:00",
+                    "page":"109",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-07-109"
+                },
+                {
+                    "date":"2019-04-11 00:00:00",
+                    "page":"110",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-11-110"
+                },
+                {
+                    "date":"2019-04-15 00:00:00",
+                    "page":"111",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-15-111"
+                },
+                {
+                    "date":"2019-04-19 00:00:00",
+                    "page":"112",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-19-112"
+                },
+                {
+                    "date":"2019-04-23 00:00:00",
+                    "page":"113",
+                    "url":"/mild-frenzy-vol-1?page=2019-04-23-113"
+                }
+            ],
+            "publish_start":"2018-01-26 00:00:00",
+            "slug":"mild-frenzy-vol-1"
+        },
+        {
+            "final_message":"",
+            "messages":[],
+            "name":"Plantlife",
+            "pages":101,
+            "publish_freq":7,
+            "publish_info":[
+                {
+                    "date":"2018-02-02 00:00:00",
+                    "page":"001",
+                    "url":"/plantlife?page=2018-02-02-001"
+                },
+                {
+                    "date":"2018-02-09 00:00:00",
+                    "page":"002",
+                    "url":"/plantlife?page=2018-02-09-002"
+                },
+                {
+                    "date":"2018-02-16 00:00:00",
+                    "page":"003",
+                    "url":"/plantlife?page=2018-02-16-003"
+                },
+                {
+                    "date":"2018-02-23 00:00:00",
+                    "page":"004",
+                    "url":"/plantlife?page=2018-02-23-004"
+                },
+                {
+                    "date":"2018-03-02 00:00:00",
+                    "page":"005",
+                    "url":"/plantlife?page=2018-03-02-005"
+                },
+                {
+                    "date":"2018-03-09 00:00:00",
+                    "page":"006",
+                    "url":"/plantlife?page=2018-03-09-006"
+                },
+                {
+                    "date":"2018-03-16 00:00:00",
+                    "page":"007",
+                    "url":"/plantlife?page=2018-03-16-007"
+                },
+                {
+                    "date":"2018-03-23 00:00:00",
+                    "page":"008",
+                    "url":"/plantlife?page=2018-03-23-008"
+                },
+                {
+                    "date":"2018-03-30 00:00:00",
+                    "page":"009",
+                    "url":"/plantlife?page=2018-03-30-009"
+                },
+                {
+                    "date":"2018-04-06 00:00:00",
+                    "page":"010",
+                    "url":"/plantlife?page=2018-04-06-010"
+                },
+                {
+                    "date":"2018-04-13 00:00:00",
+                    "page":"011",
+                    "url":"/plantlife?page=2018-04-13-011"
+                },
+                {
+                    "date":"2018-04-20 00:00:00",
+                    "page":"012",
+                    "url":"/plantlife?page=2018-04-20-012"
+                },
+                {
+                    "date":"2018-04-27 00:00:00",
+                    "page":"013",
+                    "url":"/plantlife?page=2018-04-27-013"
+                },
+                {
+                    "date":"2018-05-04 00:00:00",
+                    "page":"014",
+                    "url":"/plantlife?page=2018-05-04-014"
+                },
+                {
+                    "date":"2018-05-11 00:00:00",
+                    "page":"015",
+                    "url":"/plantlife?page=2018-05-11-015"
+                },
+                {
+                    "date":"2018-05-18 00:00:00",
+                    "page":"016",
+                    "url":"/plantlife?page=2018-05-18-016"
+                },
+                {
+                    "date":"2018-05-25 00:00:00",
+                    "page":"017",
+                    "url":"/plantlife?page=2018-05-25-017"
+                },
+                {
+                    "date":"2018-06-01 00:00:00",
+                    "page":"018",
+                    "url":"/plantlife?page=2018-06-01-018"
+                },
+                {
+                    "date":"2018-06-08 00:00:00",
+                    "page":"019",
+                    "url":"/plantlife?page=2018-06-08-019"
+                },
+                {
+                    "date":"2018-06-15 00:00:00",
+                    "page":"020",
+                    "url":"/plantlife?page=2018-06-15-020"
+                },
+                {
+                    "date":"2018-06-22 00:00:00",
+                    "page":"021",
+                    "url":"/plantlife?page=2018-06-22-021"
+                },
+                {
+                    "date":"2018-06-29 00:00:00",
+                    "page":"022",
+                    "url":"/plantlife?page=2018-06-29-022"
+                },
+                {
+                    "date":"2018-07-06 00:00:00",
+                    "page":"023",
+                    "url":"/plantlife?page=2018-07-06-023"
+                },
+                {
+                    "date":"2018-07-13 00:00:00",
+                    "page":"024",
+                    "url":"/plantlife?page=2018-07-13-024"
+                },
+                {
+                    "date":"2018-07-20 00:00:00",
+                    "page":"025",
+                    "url":"/plantlife?page=2018-07-20-025"
+                },
+                {
+                    "date":"2018-07-27 00:00:00",
+                    "page":"026",
+                    "url":"/plantlife?page=2018-07-27-026"
+                },
+                {
+                    "date":"2018-08-03 00:00:00",
+                    "page":"027",
+                    "url":"/plantlife?page=2018-08-03-027"
+                },
+                {
+                    "date":"2018-08-10 00:00:00",
+                    "page":"028",
+                    "url":"/plantlife?page=2018-08-10-028"
+                },
+                {
+                    "date":"2018-08-17 00:00:00",
+                    "page":"029",
+                    "url":"/plantlife?page=2018-08-17-029"
+                },
+                {
+                    "date":"2018-08-24 00:00:00",
+                    "page":"030",
+                    "url":"/plantlife?page=2018-08-24-030"
+                },
+                {
+                    "date":"2018-08-31 00:00:00",
+                    "page":"031",
+                    "url":"/plantlife?page=2018-08-31-031"
+                },
+                {
+                    "date":"2018-09-07 00:00:00",
+                    "page":"032",
+                    "url":"/plantlife?page=2018-09-07-032"
+                },
+                {
+                    "date":"2018-09-14 00:00:00",
+                    "page":"033",
+                    "url":"/plantlife?page=2018-09-14-033"
+                },
+                {
+                    "date":"2018-09-21 00:00:00",
+                    "page":"034",
+                    "url":"/plantlife?page=2018-09-21-034"
+                },
+                {
+                    "date":"2018-09-28 00:00:00",
+                    "page":"035",
+                    "url":"/plantlife?page=2018-09-28-035"
+                },
+                {
+                    "date":"2018-10-05 00:00:00",
+                    "page":"036",
+                    "url":"/plantlife?page=2018-10-05-036"
+                },
+                {
+                    "date":"2018-10-12 00:00:00",
+                    "page":"037",
+                    "url":"/plantlife?page=2018-10-12-037"
+                },
+                {
+                    "date":"2018-10-19 00:00:00",
+                    "page":"038",
+                    "url":"/plantlife?page=2018-10-19-038"
+                },
+                {
+                    "date":"2018-10-26 00:00:00",
+                    "page":"039",
+                    "url":"/plantlife?page=2018-10-26-039"
+                },
+                {
+                    "date":"2018-11-02 00:00:00",
+                    "page":"040",
+                    "url":"/plantlife?page=2018-11-02-040"
+                },
+                {
+                    "date":"2018-11-09 00:00:00",
+                    "page":"041",
+                    "url":"/plantlife?page=2018-11-09-041"
+                },
+                {
+                    "date":"2018-11-16 00:00:00",
+                    "page":"042",
+                    "url":"/plantlife?page=2018-11-16-042"
+                },
+                {
+                    "date":"2018-11-23 00:00:00",
+                    "page":"043",
+                    "url":"/plantlife?page=2018-11-23-043"
+                },
+                {
+                    "date":"2018-11-30 00:00:00",
+                    "page":"044",
+                    "url":"/plantlife?page=2018-11-30-044"
+                },
+                {
+                    "date":"2018-12-07 00:00:00",
+                    "page":"045",
+                    "url":"/plantlife?page=2018-12-07-045"
+                },
+                {
+                    "date":"2018-12-14 00:00:00",
+                    "page":"046",
+                    "url":"/plantlife?page=2018-12-14-046"
+                },
+                {
+                    "date":"2018-12-21 00:00:00",
+                    "page":"047",
+                    "url":"/plantlife?page=2018-12-21-047"
+                },
+                {
+                    "date":"2018-12-28 00:00:00",
+                    "page":"048",
+                    "url":"/plantlife?page=2018-12-28-048"
+                },
+                {
+                    "date":"2019-01-04 00:00:00",
+                    "page":"049",
+                    "url":"/plantlife?page=2019-01-04-049"
+                },
+                {
+                    "date":"2019-01-11 00:00:00",
+                    "page":"050",
+                    "url":"/plantlife?page=2019-01-11-050"
+                },
+                {
+                    "date":"2019-01-18 00:00:00",
+                    "page":"051",
+                    "url":"/plantlife?page=2019-01-18-051"
+                },
+                {
+                    "date":"2019-01-25 00:00:00",
+                    "page":"052",
+                    "url":"/plantlife?page=2019-01-25-052"
+                },
+                {
+                    "date":"2019-02-01 00:00:00",
+                    "page":"053",
+                    "url":"/plantlife?page=2019-02-01-053"
+                },
+                {
+                    "date":"2019-02-08 00:00:00",
+                    "page":"054",
+                    "url":"/plantlife?page=2019-02-08-054"
+                },
+                {
+                    "date":"2019-02-15 00:00:00",
+                    "page":"055",
+                    "url":"/plantlife?page=2019-02-15-055"
+                },
+                {
+                    "date":"2019-02-22 00:00:00",
+                    "page":"056",
+                    "url":"/plantlife?page=2019-02-22-056"
+                },
+                {
+                    "date":"2019-03-01 00:00:00",
+                    "page":"057",
+                    "url":"/plantlife?page=2019-03-01-057"
+                },
+                {
+                    "date":"2019-03-08 00:00:00",
+                    "page":"058",
+                    "url":"/plantlife?page=2019-03-08-058"
+                },
+                {
+                    "date":"2019-03-15 00:00:00",
+                    "page":"059",
+                    "url":"/plantlife?page=2019-03-15-059"
+                },
+                {
+                    "date":"2019-03-22 00:00:00",
+                    "page":"060",
+                    "url":"/plantlife?page=2019-03-22-060"
+                },
+                {
+                    "date":"2019-03-29 00:00:00",
+                    "page":"061",
+                    "url":"/plantlife?page=2019-03-29-061"
+                },
+                {
+                    "date":"2019-04-05 00:00:00",
+                    "page":"062",
+                    "url":"/plantlife?page=2019-04-05-062"
+                },
+                {
+                    "date":"2019-04-12 00:00:00",
+                    "page":"063",
+                    "url":"/plantlife?page=2019-04-12-063"
+                },
+                {
+                    "date":"2019-04-19 00:00:00",
+                    "page":"064",
+                    "url":"/plantlife?page=2019-04-19-064"
+                },
+                {
+                    "date":"2019-04-26 00:00:00",
+                    "page":"065",
+                    "url":"/plantlife?page=2019-04-26-065"
+                },
+                {
+                    "date":"2019-05-03 00:00:00",
+                    "page":"066",
+                    "url":"/plantlife?page=2019-05-03-066"
+                },
+                {
+                    "date":"2019-05-10 00:00:00",
+                    "page":"067",
+                    "url":"/plantlife?page=2019-05-10-067"
+                },
+                {
+                    "date":"2019-05-17 00:00:00",
+                    "page":"068",
+                    "url":"/plantlife?page=2019-05-17-068"
+                },
+                {
+                    "date":"2019-05-24 00:00:00",
+                    "page":"069",
+                    "url":"/plantlife?page=2019-05-24-069"
+                },
+                {
+                    "date":"2019-05-31 00:00:00",
+                    "page":"070",
+                    "url":"/plantlife?page=2019-05-31-070"
+                },
+                {
+                    "date":"2019-06-07 00:00:00",
+                    "page":"071",
+                    "url":"/plantlife?page=2019-06-07-071"
+                },
+                {
+                    "date":"2019-06-14 00:00:00",
+                    "page":"072",
+                    "url":"/plantlife?page=2019-06-14-072"
+                },
+                {
+                    "date":"2019-06-21 00:00:00",
+                    "page":"073",
+                    "url":"/plantlife?page=2019-06-21-073"
+                },
+                {
+                    "date":"2019-06-28 00:00:00",
+                    "page":"074",
+                    "url":"/plantlife?page=2019-06-28-074"
+                },
+                {
+                    "date":"2019-07-05 00:00:00",
+                    "page":"075",
+                    "url":"/plantlife?page=2019-07-05-075"
+                },
+                {
+                    "date":"2019-07-12 00:00:00",
+                    "page":"076",
+                    "url":"/plantlife?page=2019-07-12-076"
+                },
+                {
+                    "date":"2019-07-19 00:00:00",
+                    "page":"077",
+                    "url":"/plantlife?page=2019-07-19-077"
+                },
+                {
+                    "date":"2019-07-26 00:00:00",
+                    "page":"078",
+                    "url":"/plantlife?page=2019-07-26-078"
+                },
+                {
+                    "date":"2019-08-02 00:00:00",
+                    "page":"079",
+                    "url":"/plantlife?page=2019-08-02-079"
+                },
+                {
+                    "date":"2019-08-09 00:00:00",
+                    "page":"080",
+                    "url":"/plantlife?page=2019-08-09-080"
+                },
+                {
+                    "date":"2019-08-16 00:00:00",
+                    "page":"081",
+                    "url":"/plantlife?page=2019-08-16-081"
+                },
+                {
+                    "date":"2019-08-23 00:00:00",
+                    "page":"082",
+                    "url":"/plantlife?page=2019-08-23-082"
+                },
+                {
+                    "date":"2019-08-30 00:00:00",
+                    "page":"083",
+                    "url":"/plantlife?page=2019-08-30-083"
+                },
+                {
+                    "date":"2019-09-06 00:00:00",
+                    "page":"084",
+                    "url":"/plantlife?page=2019-09-06-084"
+                },
+                {
+                    "date":"2019-09-13 00:00:00",
+                    "page":"085",
+                    "url":"/plantlife?page=2019-09-13-085"
+                },
+                {
+                    "date":"2019-09-20 00:00:00",
+                    "page":"086",
+                    "url":"/plantlife?page=2019-09-20-086"
+                },
+                {
+                    "date":"2019-09-27 00:00:00",
+                    "page":"087",
+                    "url":"/plantlife?page=2019-09-27-087"
+                },
+                {
+                    "date":"2019-10-04 00:00:00",
+                    "page":"088",
+                    "url":"/plantlife?page=2019-10-04-088"
+                },
+                {
+                    "date":"2019-10-11 00:00:00",
+                    "page":"089",
+                    "url":"/plantlife?page=2019-10-11-089"
+                },
+                {
+                    "date":"2019-10-18 00:00:00",
+                    "page":"090",
+                    "url":"/plantlife?page=2019-10-18-090"
+                },
+                {
+                    "date":"2019-10-25 00:00:00",
+                    "page":"091",
+                    "url":"/plantlife?page=2019-10-25-091"
+                },
+                {
+                    "date":"2019-11-01 00:00:00",
+                    "page":"092",
+                    "url":"/plantlife?page=2019-11-01-092"
+                },
+                {
+                    "date":"2019-11-08 00:00:00",
+                    "page":"093",
+                    "url":"/plantlife?page=2019-11-08-093"
+                },
+                {
+                    "date":"2019-11-15 00:00:00",
+                    "page":"094",
+                    "url":"/plantlife?page=2019-11-15-094"
+                },
+                {
+                    "date":"2019-11-22 00:00:00",
+                    "page":"095",
+                    "url":"/plantlife?page=2019-11-22-095"
+                },
+                {
+                    "date":"2019-11-29 00:00:00",
+                    "page":"096",
+                    "url":"/plantlife?page=2019-11-29-096"
+                },
+                {
+                    "date":"2019-12-06 00:00:00",
+                    "page":"097",
+                    "url":"/plantlife?page=2019-12-06-097"
+                },
+                {
+                    "date":"2019-12-13 00:00:00",
+                    "page":"098",
+                    "url":"/plantlife?page=2019-12-13-098"
+                },
+                {
+                    "date":"2019-12-20 00:00:00",
+                    "page":"099",
+                    "url":"/plantlife?page=2019-12-20-099"
+                },
+                {
+                    "date":"2019-12-27 00:00:00",
+                    "page":"100",
+                    "url":"/plantlife?page=2019-12-27-100"
+                },
+                {
+                    "date":"2020-01-03 00:00:00",
+                    "page":"101",
+                    "url":"/plantlife?page=2020-01-03-101"
+                }
+            ],
+            "publish_start":"2018-01-26 00:00:00",
+            "slug":"plantlife"
+        },
+        {
+            "final_message":"",
+            "messages":[],
+            "name":"The Other Side",
+            "pages":49,
+            "publish_freq":1,
+            "publish_info":[
+                {
+                    "date":"2017-01-27 00:00:00",
+                    "page":"001",
+                    "url":"/the-other-side?page=2017-01-27-001"
+                },
+                {
+                    "date":"2017-01-28 00:00:00",
+                    "page":"002",
+                    "url":"/the-other-side?page=2017-01-28-002"
+                },
+                {
+                    "date":"2017-01-29 00:00:00",
+                    "page":"003",
+                    "url":"/the-other-side?page=2017-01-29-003"
+                },
+                {
+                    "date":"2017-01-30 00:00:00",
+                    "page":"004",
+                    "url":"/the-other-side?page=2017-01-30-004"
+                },
+                {
+                    "date":"2017-01-31 00:00:00",
+                    "page":"005",
+                    "url":"/the-other-side?page=2017-01-31-005"
+                },
+                {
+                    "date":"2017-02-01 00:00:00",
+                    "page":"006",
+                    "url":"/the-other-side?page=2017-02-01-006"
+                },
+                {
+                    "date":"2017-02-02 00:00:00",
+                    "page":"007",
+                    "url":"/the-other-side?page=2017-02-02-007"
+                },
+                {
+                    "date":"2017-02-03 00:00:00",
+                    "page":"008",
+                    "url":"/the-other-side?page=2017-02-03-008"
+                },
+                {
+                    "date":"2017-02-04 00:00:00",
+                    "page":"009",
+                    "url":"/the-other-side?page=2017-02-04-009"
+                },
+                {
+                    "date":"2017-02-05 00:00:00",
+                    "page":"010",
+                    "url":"/the-other-side?page=2017-02-05-010"
+                },
+                {
+                    "date":"2017-02-06 00:00:00",
+                    "page":"011",
+                    "url":"/the-other-side?page=2017-02-06-011"
+                },
+                {
+                    "date":"2017-02-07 00:00:00",
+                    "page":"012",
+                    "url":"/the-other-side?page=2017-02-07-012"
+                },
+                {
+                    "date":"2017-02-08 00:00:00",
+                    "page":"013",
+                    "url":"/the-other-side?page=2017-02-08-013"
+                },
+                {
+                    "date":"2017-02-09 00:00:00",
+                    "page":"014",
+                    "url":"/the-other-side?page=2017-02-09-014"
+                },
+                {
+                    "date":"2017-02-10 00:00:00",
+                    "page":"015",
+                    "url":"/the-other-side?page=2017-02-10-015"
+                },
+                {
+                    "date":"2017-02-11 00:00:00",
+                    "page":"016",
+                    "url":"/the-other-side?page=2017-02-11-016"
+                },
+                {
+                    "date":"2017-02-12 00:00:00",
+                    "page":"017",
+                    "url":"/the-other-side?page=2017-02-12-017"
+                },
+                {
+                    "date":"2017-02-13 00:00:00",
+                    "page":"018",
+                    "url":"/the-other-side?page=2017-02-13-018"
+                },
+                {
+                    "date":"2017-02-14 00:00:00",
+                    "page":"019",
+                    "url":"/the-other-side?page=2017-02-14-019"
+                },
+                {
+                    "date":"2017-02-15 00:00:00",
+                    "page":"020",
+                    "url":"/the-other-side?page=2017-02-15-020"
+                },
+                {
+                    "date":"2017-02-16 00:00:00",
+                    "page":"021",
+                    "url":"/the-other-side?page=2017-02-16-021"
+                },
+                {
+                    "date":"2017-02-17 00:00:00",
+                    "page":"022",
+                    "url":"/the-other-side?page=2017-02-17-022"
+                },
+                {
+                    "date":"2017-02-18 00:00:00",
+                    "page":"023",
+                    "url":"/the-other-side?page=2017-02-18-023"
+                },
+                {
+                    "date":"2017-02-19 00:00:00",
+                    "page":"024",
+                    "url":"/the-other-side?page=2017-02-19-024"
+                },
+                {
+                    "date":"2017-02-20 00:00:00",
+                    "page":"025",
+                    "url":"/the-other-side?page=2017-02-20-025"
+                },
+                {
+                    "date":"2017-02-21 00:00:00",
+                    "page":"026",
+                    "url":"/the-other-side?page=2017-02-21-026"
+                },
+                {
+                    "date":"2017-02-22 00:00:00",
+                    "page":"027",
+                    "url":"/the-other-side?page=2017-02-22-027"
+                },
+                {
+                    "date":"2017-02-23 00:00:00",
+                    "page":"028",
+                    "url":"/the-other-side?page=2017-02-23-028"
+                },
+                {
+                    "date":"2017-02-24 00:00:00",
+                    "page":"029",
+                    "url":"/the-other-side?page=2017-02-24-029"
+                },
+                {
+                    "date":"2017-02-25 00:00:00",
+                    "page":"030",
+                    "url":"/the-other-side?page=2017-02-25-030"
+                },
+                {
+                    "date":"2017-02-26 00:00:00",
+                    "page":"031",
+                    "url":"/the-other-side?page=2017-02-26-031"
+                },
+                {
+                    "date":"2017-02-27 00:00:00",
+                    "page":"032",
+                    "url":"/the-other-side?page=2017-02-27-032"
+                },
+                {
+                    "date":"2017-02-28 00:00:00",
+                    "page":"033",
+                    "url":"/the-other-side?page=2017-02-28-033"
+                },
+                {
+                    "date":"2017-03-01 00:00:00",
+                    "page":"034",
+                    "url":"/the-other-side?page=2017-03-01-034"
+                },
+                {
+                    "date":"2017-03-02 00:00:00",
+                    "page":"035",
+                    "url":"/the-other-side?page=2017-03-02-035"
+                },
+                {
+                    "date":"2017-03-03 00:00:00",
+                    "page":"036",
+                    "url":"/the-other-side?page=2017-03-03-036"
+                },
+                {
+                    "date":"2017-03-04 00:00:00",
+                    "page":"037",
+                    "url":"/the-other-side?page=2017-03-04-037"
+                },
+                {
+                    "date":"2017-03-05 00:00:00",
+                    "page":"038",
+                    "url":"/the-other-side?page=2017-03-05-038"
+                },
+                {
+                    "date":"2017-03-06 00:00:00",
+                    "page":"039",
+                    "url":"/the-other-side?page=2017-03-06-039"
+                },
+                {
+                    "date":"2017-03-07 00:00:00",
+                    "page":"040",
+                    "url":"/the-other-side?page=2017-03-07-040"
+                },
+                {
+                    "date":"2017-03-08 00:00:00",
+                    "page":"041",
+                    "url":"/the-other-side?page=2017-03-08-041"
+                },
+                {
+                    "date":"2017-03-09 00:00:00",
+                    "page":"042",
+                    "url":"/the-other-side?page=2017-03-09-042"
+                },
+                {
+                    "date":"2017-03-10 00:00:00",
+                    "page":"043",
+                    "url":"/the-other-side?page=2017-03-10-043"
+                },
+                {
+                    "date":"2017-03-11 00:00:00",
+                    "page":"044",
+                    "url":"/the-other-side?page=2017-03-11-044"
+                },
+                {
+                    "date":"2017-03-12 00:00:00",
+                    "page":"045",
+                    "url":"/the-other-side?page=2017-03-12-045"
+                },
+                {
+                    "date":"2017-03-13 00:00:00",
+                    "page":"046",
+                    "url":"/the-other-side?page=2017-03-13-046"
+                },
+                {
+                    "date":"2017-03-14 00:00:00",
+                    "page":"047",
+                    "url":"/the-other-side?page=2017-03-14-047"
+                },
+                {
+                    "date":"2017-03-15 00:00:00",
+                    "page":"048",
+                    "url":"/the-other-side?page=2017-03-15-048"
+                },
+                {
+                    "date":"2017-03-16 00:00:00",
+                    "page":"049",
+                    "url":"/the-other-side?page=2017-03-16-049"
+                }
+            ],
+            "publish_start":"2017-01-26 00:00:00",
+            "slug":"the-other-side"
+        }
+    ],
+    "reviews":[
+        {
+            "project":"Attack of the Marauders",
+            "reviewer":"A Place to Hang Your Cape",
+            "summary":"...sci-fi dystopian fiction or stories about characters going through a change from one type of person to another, than check it out!",
+            "url":"https://ap2hyc.com/2017/09/attack-marauders-revels-themes-perception-reality/"
+        },
+        {
+            "project":"Strange Skies",
+            "reviewer":"A Place to Hang Your Cape",
+            "summary":"Through Strong Characterisation, Strange Skies Paints a Raw Picture of Humanity",
+            "url":"https://ap2hyc.com/2017/10/strong-characterisation-strange-skies-paints-raw-picture-humanity/"
+        },
+        {
+            "project":"Strange Skies",
+            "reviewer":"Readers Favourites",
+            "summary":"Iqbal Hussain Ali delivers his passion in his book, Strange Skies, inducing thrills and terrifying images of life with a chain of events that make us get to know each other and our universe. ",
+            "url":"https://readersfavorite.com/book-review/strange-skies"
+        },
+        {
+            "project":"Strange Skies",
+            "reviewer":"Readers Favourites",
+            "summary":"Iqbal Hussain Ali delivers his passion in his book, Strange Skies, inducing thrills and terrifying images of life with a chain of events that make us get to know each other and our universe. ",
+            "url":"https://readersfavorite.com/book-review/strange-skies"
+        },
+        {
+            "project":"Aya Begum - Book One",
+            "reviewer":"A Place to Hang Your Cape",
+            "summary":"...a great example of how to build a believable world despite the extraordinary subject matter and deliver an emotional journey...",
+            "url":"https://ap2hyc.com/2017/09/aya-begum-paranormal-investigator-delights-showing-lot-heart-spirits/"
+        }
+    ]
+}

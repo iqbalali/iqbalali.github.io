@@ -1,0 +1,31 @@
+
+.sign-up{
+	.speech-bubble{
+		@include triangle-border-bottom(#2e2e2e, #2e2e2e, 20px, 1px, 15px );
+		text-align:left;
+		background: #2e2e2e;
+		color:white;
+		padding:15px;
+		font-family: 'Signika';
+		font-size: 1.8rem;
+		line-height:4rem;
+	}
+	.mauticform-label{
+		display:none;
+	}
+	.form-control{
+		height: 5.2rem;
+	}
+	.mild-frenzy-logo{
+
+
+	}
+	.benefits-txt{
+		margin-bottom: 10px;
+		font-size:1.7rem;
+		line-height:2.5rem;
+	}
+	.signup-form{
+		padding-left:20px;
+	}
+}

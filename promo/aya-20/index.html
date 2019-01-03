@@ -1,0 +1,96 @@
+<html>
+    <head>
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-44825157-3', 'auto');
+      ga('require', 'GTM-5B8TM25');
+      ga('send', 'pageview');
+    </script>
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-5B8TM25':true});</script>
+        <script>
+            var transformToAssocArray = function ( prmstr ) {
+                var params = {};
+                var prmarr = prmstr.split("&");
+                for ( var i = 0; i < prmarr.length; i++) {
+                    var tmparr = prmarr[i].split("=");
+                    params[tmparr[0]] = tmparr[1];
+                }
+                return params;
+            }
+            var params = function() {
+                var prmstr = window.location.search.substr(1);
+                return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
+            }
+            var promo_codes = [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Aya-20",
+                "Aya-30",
+            ];
+            var apply_promo = function(){
+                sessionStorage.setItem("p",'{ "code":"Aya-20","discount":20 }');
+            };
+
+            var getDateDiffInDays = function(a,b){
+                var _MS_PER_DAY = 1000 * 60 * 60 * 24;
+                var utc1 = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate());
+                var utc2 = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
+                return Math.floor((utc2 - utc1) / _MS_PER_DAY);
+            }
+            var d0 = new Date();
+            var promo_valid = true;
+            var d = "11/12/2018".split("/");
+            var d1 = new Date( parseInt(d[2]), parseInt(d[1]) - 1, parseInt(d[0]));
+            var start_date_valid = function(){
+                return getDateDiffInDays(d0, d1) <= 0;
+            }
+            if( start_date_valid() ){
+                promo_valid = true;
+            }else{
+                promo_valid = false;
+            }
+            var d = "14/12/2018".split("/");
+            var d2 = new Date( parseInt(d[2]), parseInt(d[1]) - 1, parseInt(d[0]));
+            var end_date_valid = function(){
+                return getDateDiffInDays(d0, d2) >= 0;
+            }
+            if( end_date_valid() ){
+                promo_valid = true;
+            }else{
+                promo_valid = false;
+            }
+            if( start_date_valid() && end_date_valid() ){
+                promo_valid = true;
+            }else{
+                promo_valid = false;
+            }
+            if(promo_valid){
+                apply_promo();
+            }
+            if(params()['redirect'] !== undefined){
+                window.location.href = params()['redirect'];
+            }else{
+                window.location.href = '/';
+            }
+        </script>  
+    </head>
+    <body>
+            
+            <!-- Promo content -->
+    </body>
+</html>
+
+

@@ -1,0 +1,130 @@
+.introduction .item{
+	min-height: 34vh;
+	position:relative;
+}
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 100% 0;
+  }
+}
+.introduction .mildfrenzy-anthology{
+	display:flex;
+		background-image:url('/theme/img/bg-texture.png');
+		background-position: 0px 0px;
+		background-repeat: repeat-x;
+		/*animation: animatedBackground 90s linear infinite;*/
+		&:after{
+			position:absolute;
+			width:100%;
+			height:100%;
+			content: "";
+			background: url('/theme/img/mildfrenzy-foreground.svg');
+			background-repeat: no-repeat;
+			background-size: 120% auto;
+			background-position: 49% 51%;
+		}
+		h1{
+		    position: absolute;
+		    font-size: 2em;
+		    margin: 0 0;
+		    width: 40%;
+		    padding: 40px;
+		}	
+		.message-area{
+			position: absolute;
+			bottom:10px;
+			z-index: 1000;
+		}
+		.value-prop{
+		    color: white;
+		    z-index: 1000;
+		    left: 51px;
+		    align-self:flex-end;
+		    margin-left:24px;
+		    width:98%;
+		    margin-bottom: 3vh;
+		}
+
+		.review-box{
+			display:inline-block;
+			width:auto;
+			text-transform:uppercase;
+			.carousel-inner{
+				overflow:initial;
+				height: 3rem;
+   				overflow: hidden;
+			}
+			.word{
+				font-size:2.1rem;
+				padding-top:10px;
+				padding-right:2px;
+				font-style:italic;
+				&:before{
+					content:'"';
+				}
+				&:after{
+					content:'"';
+				}
+			}
+			.word_markup{
+				display: block;
+			    font-size: 0.9rem;
+			    border-top: 2px solid white;
+			    width: 100%;
+			    text-align: right;
+			    font-style:italic;
+			    margin-top:5px;
+			    a{
+			    	color:white;
+			    }
+			}
+		}
+		.btn-primary{
+			background-color: transparent;
+		    border: 2px solid white;
+		    color: white;
+		    border-radius: 50px;
+    		font-size: 2.6rem;
+    		padding: 10px 35px;
+    		margin-right: 20px;
+    		vertical-align: top;
+    		margin-top:9px;
+		}
+		
+}
+@media only screen and (max-width: 831px) {
+	.introduction .mildfrenzy-anthology{
+		h1{
+			min-width:200px;
+		}
+	}
+}
+@media only screen and (min-width: 832px) {
+	.introduction .item{
+		//height: 76vh;
+	}
+	.introduction .mildfrenzy-anthology{
+			&:after{
+	    		background-size: 100% auto;
+				background-position: 49% 55%;
+	    	}
+		}
+}
+
+
+.introduction .mildfrenzy-anthology{
+	h1{
+		width:26vw;
+	}
+	.hero-msg{
+		width:99%;
+	h2{
+			margin:0;
+			font-size:2.9rem;
+			display:inline-block;
+		}
+	}
+}

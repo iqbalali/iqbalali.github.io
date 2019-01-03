@@ -1,0 +1,567 @@
+@mixin border-radius($top:$border-radius-small, $right:$border-radius-small, $bottom:$border-radius-small, $left:$border-radius-small) {
+  border-radius:$top $right $bottom $left;
+   border-radius:$top $right $bottom $left;
+}
+
+@mixin border-box{
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;  
+}
+
+//--
+//Speech bubble creator:
+.triangle-border {
+	position:relative;
+	&:before {
+		content:"";
+		position:absolute;
+		border-style:solid;
+		/* reduce the damage in FF3.0 */
+		display:block; 
+		width:0;
+	}
+	&:after {
+		content:"";
+		position:absolute;
+		border-style:solid;
+		/* reduce the damage in FF3.0 */
+		display:block; 
+		width:0;
+	}
+}
+@mixin triangle-border-left($borderColor:#ebebeb, $bgColor:#fff, $pos:10px, $border:1px, $size:15px ){
+	@extend .triangle-border;
+	margin-left:$size+5px;
+	&:before {
+		top:$pos; /* controls vertical position */
+		bottom:auto;
+		left:$size - $size - $size; /* value = - border-left-width - border-right-width */
+		border-width:$size $size $size 0;
+		border-color:transparent $borderColor;
+	}
+	&:after {
+		top:$pos+$border; /* value = (:before top) + (:before border-top) - (:after border-top) */
+		bottom:auto;
+		left:($size - $border) -  ($size - $border) - ($size - $border); /* value = - border-left-width - border-right-width */
+		border-width: ($size - $border) ($size - $border) ($size - $border) 0;
+		border-color:transparent $bgColor;
+	}
+}
+
+@mixin triangle-border-right($borderColor:#ebebeb, $bgColor:#fff, $pos:40px, $border:1px, $size:15px ){
+	@extend .triangle-border;
+	margin-right:$size+5px;
+	&:before {
+		top:$pos; /* controls vertical position */
+		bottom:auto;
+		left:auto;
+		right:$size - $size - $size; /* value = - border-left-width - border-right-width */
+		border-width:$size 0 $size $size;
+		border-color:transparent $borderColor;
+	}
+	&:after {
+		top:$pos+$border; /* value = (:before top) + (:before border-top) - (:after border-top) */
+		bottom:auto;
+		left:auto;
+		right:($size - $border) -  ($size - $border) - ($size - $border); /* value = - border-left-width - border-right-width */
+		border-width: ($size - $border) 0 ($size - $border) ($size - $border);
+		border-color:transparent $bgColor;
+	}
+}
+
+@mixin triangle-border-bottom($borderColor:#ebebeb, $bgColor:#fff, $pos:40px, $border:1px, $size:15px ){
+	@extend .triangle-border;
+	margin-bottom: $size+5px;
+	&:before{
+		bottom:$size - $size - $size; /* value = - border-top-width - border-bottom-width */
+		left:$pos; /* controls horizontal position */
+		border-width:$size $size 0;
+		border-color:$borderColor transparent;
+	}
+	&:after{
+		bottom:($size - $border) -  ($size - $border) - ($size - $border); /* value = - border-top-width - border-bottom-width */
+		left:$pos + $border; /* value = (:before left) + (:before border-left) - (:after border-left) */
+		border-width:($size - $border) ($size - $border) 0;
+		border-color:$bgColor transparent;
+	}
+}
+
+@mixin triangle-border-top($borderColor:#ebebeb, $bgColor:#fff, $pos:40px, $border:1px, $size:15px, $cDirection:'left' ){
+	@extend .triangle-border;
+	margin-top: $size+5px;
+	&:before{
+		top:$size - $size - $size; /* value = - border-top-width - border-bottom-width */
+
+		@if $cDirection == 'left'    { 
+			left:$pos; /* controls horizontal position */
+		}
+  		@if $cDirection == 'right'  { 
+  			right:$pos; /* controls horizontal position */
+  		}
+		
+		border-width:0 $size $size;
+		border-color:$borderColor transparent;
+	}
+	&:after{
+		top:($size - $border) -  ($size - $border) - ($size - $border); /* value = - border-top-width - border-bottom-width */
+
+		@if $cDirection == 'left'    { 
+			left:$pos + $border; /* value = (:before left) + (:before border-left) - (:after border-left) */
+		}
+  		@if $cDirection == 'right'  { 
+  			right:$pos + $border; /* value = (:before left) + (:before border-left) - (:after border-left) */
+  		}
+		//left:$pos + $border; /* value = (:before left) + (:before border-left) - (:after border-left) */
+		border-width:0 ($size - $border) ($size - $border);
+		border-color:$bgColor transparent;
+	}
+}
+//---
+
+
+//CSS-Based icons
+@mixin arrow-base(){
+	display:inline-block;
+	width: 0; 
+	height: 0; 
+}
+@mixin arrow-up($size:5px, $color:#000, $increase-length-by:0) {
+	@include arrow-base();
+	border-left: $size solid transparent;
+	border-right: $size solid transparent;
+	border-bottom: $size+$increase-length-by solid $color;
+}
+
+@mixin arrow-down($size:5px, $color:#000, $increase-length-by:0) {
+	@include arrow-base();
+	border-left: $size solid transparent;
+	border-right: $size solid transparent;
+	border-top: $size+$increase-length-by solid $color;
+}
+
+@mixin arrow-right($size:5px, $color:#000, $increase-length-by:0){
+	@include arrow-base();
+	border-top: $size solid transparent;
+	border-left: $size+$increase-length-by solid $color;
+	border-bottom: $size solid transparent;
+}
+@mixin arrow-left($size:5px, $color:#000, $increase-length-by:0) {
+	@include arrow-base();
+	border-top: $size solid transparent;
+	border-bottom: $size solid transparent; 
+	border-right:$size+$increase-length-by solid $color; 
+}
+//--
+
+
+@mixin chevron($cDirection:"right", $cSize: 25px, $cWidth: 7px, $cColor: $gray-light) {
+
+  display: block;
+  width: $cSize;
+  height: $cSize;
+  border-top: 1px solid $cColor;
+  border-right: 1px solid $cColor;
+  border-width: $cWidth;
+    
+  @if $cDirection == 'top'    { @include rotate(-45deg);}
+  @if $cDirection == 'right'  { @include rotate(45deg);}
+  @if $cDirection == 'bottom' { @include rotate(135deg);}
+  @if $cDirection == 'left'   { @include rotate(225deg);}
+
+}
+
+@mixin chevron-top ($cSize: 25px, $cWidth: 7px, $cColor: $gray-light){
+  @include chevron('top', $cSize, $cWidth, $cColor);
+}
+                
+@mixin chevron-right ($cSize: 25px, $cWidth: 7px, $cColor: $gray-light){
+  @include chevron('right', $cSize, $cWidth, $cColor);
+}
+                
+@mixin chevron-bottom ($cSize: 25px, $cWidth: 7px, $cColor: $gray-light){
+  @include chevron('bottom', $cSize, $cWidth, $cColor);
+}
+                
+@mixin chevron-left ($cSize: 25px, $cWidth: 7px, $cColor: $gray-light){
+  @include chevron('left', $cSize, $cWidth, $cColor);
+ }
+        
+
+
+//Custom checkbox
+.non-ie,
+.ie9,
+.ie9plus{
+	input[type="checkbox"]{
+		position:absolute;
+        left:-999px;
+        top:-999px;
+	}
+	input[type="checkbox"] + label{
+		display:inline-block;
+		&:before{
+			//.icon-check;
+			color:transparent;
+			font-size:0.7em;
+			border:1px solid #ccc;
+			//.radius($checkbox-radius);
+			background-color:#fff;
+			padding:1px;
+			margin-right:3px;
+			margin-bottom:1px;
+		}
+	}
+	input[type="checkbox"]:checked + label{	
+		&:before{
+			//.icon-check;
+			color:$checkbox-select-color;
+		}
+	}
+	input[type="checkbox"]:focus + label{
+		&:before{
+			//.icon-check;
+			@include tab-focus();
+		}
+	}
+}
+
+@mixin list-no-style{
+	@include clearfix();
+    margin-left:0;
+    padding-left:0;
+    li{
+        @include clearfix();
+        list-style:none;
+        margin:0;
+        padding-left:0;
+        margin-bottom:10px;
+    }
+}
+
+@mixin sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+@mixin list-inline{
+	@include list-no-style;
+	li{
+		display:inline-block;
+	}
+}
+
+@mixin no-style-type{
+	list-style-type: none;
+}
+//---
+//Respond-to-devices
+/*
+These are defined in the _variables file but for reference...
+$screen-xs:                  480px !default;
+$screen-md:                  992px !default;
+$screen-lg:                  1200px !default;
+*/
+@mixin respond-to($media) {
+  @if $media == handhelds {
+    @media only screen and (min-width: $screen-xs) { @content; }
+  }
+  @else if $media == screen-sm {
+    @media only screen and (min-width: $screen-sm) { @content; }
+  }
+  @else if $media == screen-md {
+    @media only screen and (min-width: $screen-md) { @content; }
+  }
+  @else if $media == screen-lg {
+    @media only screen and (min-width: $screen-lg) { @content; }
+  }
+}
+
+@mixin respond-to-lower-than($media) {
+  @if $media == handhelds {
+    @media only screen and (max-width: $screen-xs) { @content; }
+  }
+  @else if $media == screen-sm {
+    @media only screen and (max-width: $screen-sm) { @content; }
+  }
+  @else if $media == screen-md {
+    @media only screen and (max-width: $screen-md) { @content; }
+  }
+  @else if $media == screen-lg {
+    @media only screen and (max-width: $screen-lg) { @content; }
+  }
+}
+@mixin respond-to-higher-than($media) {
+  @if $media == handhelds {
+    @media only screen and (min-width: $screen-xs) { @content; }
+  }
+  @else if $media == screen-sm {
+    @media only screen and (min-width: $screen-sm) { @content; }
+  }
+  @else if $media == screen-md {
+    @media only screen and (min-width: $screen-md) { @content; }
+  }
+  @else if $media == screen-lg {
+    @media only screen and (min-width: $screen-lg) { @content; }
+  }
+}
+a{
+	@include transition(.5s all ease);
+	&:hover{
+	    @include transition(.5s all ease);
+	}
+}
+
+@mixin no-shadow {
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+}
+
+
+//Fexbox
+@mixin flex {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+ }
+@mixin flex-fill{
+	-webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+  -moz-box-flex: 1;         /* OLD - Firefox 19- */
+  width: 20%;               /* For old syntax, otherwise collapses. */
+  -webkit-flex: 1;          /* Chrome */
+  -ms-flex: 1;              /* IE 10 */
+  flex: 1; 
+}
+@mixin flex-direction($direction: row){
+	-webkit-flex-direction: $direction;      /* OLD - iOS 6-, Safari 3.1-6 */
+  flex-direction: $direction; 
+}
+//Example of use
+/*
+.profile-pic {
+  float: left;
+  width: 250px;
+  @include respond-to(handhelds) { width: 100% ;}
+  @include respond-to(medium-screens) { width: 125px; }
+  @include respond-to(wide-screens) { float: none; }
+}
+*/
+//---
+
+@mixin starburst(){
+	display: block;
+  box-align: center;
+  box-pack: center;
+  background-color: $gray-light;  
+  padding-top: 4px;
+  /* 
+  Uncomment this to tart them up..
+  background: radial-gradient(circle, #e00000 20%, #990000 80%); 
+  text-shadow: 0 .05em .05em rgba(0,0,0,.5);
+  */ 
+  width: 3rem;
+  height: 3rem;
+  text-align: center;
+  color: #fff;
+
+	&:before,
+	&:after{
+	   content: "";
+	   position: absolute;
+	   top: 0;
+	   left: 0;
+	   width: 100%;
+	   height: 100%;
+	   background: inherit;
+	   z-index: -1;
+	  transform: rotate(30deg);
+	}
+
+	&:after {
+	  transform: rotate(-30deg);
+	}
+}
+
+/* RIBBON BANNERS */
+
+.ribbon {
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	.text,
+	.banner,
+	a {
+		margin: 0;
+	    padding: 0;
+	    border: 0;
+	    outline: 0;
+	    font-size: 100%;
+	    vertical-align: baseline;
+	    background: transparent;
+	}
+	.text{
+		text-align:center;
+	}
+	.banner {
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+		transform: rotate(45deg);
+		color: #fff;
+		-webkit-font-smoothing: antialiased;
+		display: block;
+		float: right;
+		position: relative;
+		right: 1px;
+		top: 27px;
+		width: 88px;
+	}
+	.banner::after,
+	.banner::before {
+		content: '';
+		display: block;
+		height: 12px;
+		position: absolute;
+		width: 30px;
+	}
+	.banner::before {
+		-webkit-transform: skewY(-45deg) translate(50%,15px);
+		-moz-transform: skewY(-45deg) translate(50%,15px);
+		-ms-transform: skewY(-45deg) translate(50%,15px);
+		-o-transform: skewY(-45deg) translate(50%,15px);
+		-webkit-transform-origin: 100% center;
+		-moz-transform-origin: 100% center;
+		-ms-transform-origin: 100% center;
+		-o-transform-origin: 100% center;
+		left: -44px;
+	}
+	.banner::after {
+		-webkit-transform: translate(100%,-100%) skewY(45deg) translateX(-58%);
+		-moz-transform: translate(100%,-100%) skewY(45deg) translateX(-58%);
+		-ms-transform: translate(100%,-100%) skewY(45deg) translateX(-58%);
+		-o-transform: translate(100%,-100%) skewY(45deg) translateX(-58%);
+		-webkit-transform-origin: 0 center;
+		-moz-transform-origin: 0 center;
+		-ms-transform-origin: 0 center;
+		-o-transform-origin: 0 center;
+		right: -17px;
+	}
+	.text {
+		position: relative;
+		z-index: 2;
+		padding: 6px 0;
+		font-size: 12px;
+		font-weight: bold;
+		min-height: 18px;
+		line-height: 18px;
+		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.20);
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+	.text::before {
+		-webkit-transform: translateX(-15%) skewX(-45deg);
+		-moz-transform: translateX(-15%) skewX(-45deg);
+		-ms-transform: translateX(-15%) skewX(-45deg);
+		-o-transform: translateX(-15%) skewX(-45deg);
+	}
+
+	.text::after {
+		-webkit-transform: translateX(15%) skewX(45deg);
+		-moz-transform: translateX(15%) skewX(45deg);
+		-ms-transform: translateX(15%) skewX(45deg);
+		-o-transform: translateX(15%) skewX(45deg);
+	}
+	.text::before,
+	.text::after {
+		content: '';
+		display: block;
+		height: 30px;
+		position: absolute;
+		top: 0;
+		width: 100%;
+		z-index: -1;
+		left:2px;
+	}
+	.text::before{
+		width:90%;
+		left:-2px;
+	}
+}
+
+/* reset certain elements (in case of conflicting CSS for classes, links, etc.) */
+
+.ribbon .text {
+	color: #fff;
+	text-decoration: none;
+	font-size: $font-size-small;
+}
+
+.no-css-transforms .ribbon {
+	font-size: 1em;
+	position: relative;
+	width: 100%;
+}
+.no-css-transforms .ribbon .banner {
+	position: static;
+	width: 100%;
+	float: none;
+	font-size: 10px;
+}
+
+/*--- RIBBON COLORS ---*/
+
+/* default */
+.ribbon .banner::after,
+.ribbon .banner::before {
+	background-color: $gray;
+}
+.ribbon .text::before,
+.ribbon .text::after,
+.no-css-transforms .ribbon .text {
+	background-color: $brand-primary;
+}
+.ribbon .text{
+	text-transform:uppercase;
+}
+
+
+@mixin grayscale($value) { 
+	-webkit-filter: grayscale($value); 
+	filter: grayscale($value); 
+}
+
+@mixin profile-box{
+  @include clearfix;
+  background:#fff;
+  border:3px solid $gray-lighter;
+  padding: $padding-base-vertical $padding-base-horizontal;
+  margin-bottom:$padding-section-vertical;
+}
+
+@mixin h2-form-page-style{
+  margin-top: $padding-base-vertical;
+    text-align: left;
+    font-size:$font-size-h3;
+    font-weight: 600;
+}
+
+@mixin hr-grey{	
+  hr {  
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    border-top: 1px solid #e0dedf; 
+    background-color: transparent; 
+  }
+}
