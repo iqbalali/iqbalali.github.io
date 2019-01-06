@@ -1,5 +1,9 @@
 //Simplecart
 //Global functions
+function getCookie(key) {
+    var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+    return keyValue ? keyValue[2] : null;
+}  
 var remove_multiples_from_basket = function(){
 	simpleCart.each(function(item){
 		var quant = item.get('quantity');
@@ -122,8 +126,10 @@ if (pageName === "checkout"){
 		}
         if ( promo_code() ){
             c["promo"] = promo_code()['code'];
-        }
-        return JSON.stringify(c);
+		}
+		c['gcid'] = getCookie('_ga');
+		c['ga_site_id'] = GOOGLE_ANALYTICS;
+		return JSON.stringify(c);
     };
     simpleCart({
         checkout: { 
