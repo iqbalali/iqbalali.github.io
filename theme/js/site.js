@@ -229,11 +229,23 @@ $("#newsletterform").submit(function(e) {
 			$('#mauticform_wrapper_mildfrenzynewsletterwebsite').hide();
 			$('#myModalLabel').hide();
 			$('#success_message').show();
+			ga('send', {
+				hitType: 'event',
+				eventCategory: 'Goals',
+				eventAction: 'email-sign-up',
+				eventLabel: 'Sign up from '+pageName
+			});
 		   },
 		   error: function (data) {
 			$('#mauticform_wrapper_mildfrenzynewsletterwebsite').hide();
 			$('#myModalLabel').hide();
 			$('#failure_message').show();
+			ga('send', {
+				hitType: 'event',
+				eventCategory: 'Goals',
+				eventAction: 'email-sign-up',
+				eventLabel: 'Faled sign up from '+pageName
+			});
 		}
 	 });
 });
